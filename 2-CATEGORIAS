@@ -51,8 +51,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
+<channels>
+<channel>
+<title>[COLOR blue][B]SEÇÃO PEDIDOS DO USUÁRIO[/B][/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/7-PEDIDOS-DO-USU%C3%81RIO</externallink>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AQUI ATENDEMOS OS PEDIDOS DE NOSSOS USUÁRIOS</info>
+<genre>PEDIDOS</genre>  
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
