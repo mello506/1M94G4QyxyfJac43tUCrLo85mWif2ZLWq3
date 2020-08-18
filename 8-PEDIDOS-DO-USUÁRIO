@@ -22,8 +22,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.youtube/play/?video_id=3om3dY_50nQ$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE GOOD DOCTOR[/COLOR]</link>
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] THE GOOD DOCTOR[/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf8bbf97dfe009108a741d5871038a93d5184de9&dn=The.Good.Doctor.S03.1080p.WEB-DL.AAC2.0.x264.DUAL-RICKSZ$$lsname=[B]TORRENT - T03-E01 <-> E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE GOOD DOCTOR - 720 - DUB[/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a67924c6dbc4a64df5806ac4202c230d87e6cf3&dn=The.Good.Doctor.S03E11.Fractured.1080p.AMZN.WEB-DL.DDP5.1.H.264-TOMMY.Dual%20Petter$$lsname=[B]TORRENT - T03E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE GOOD DOCTOR - 1080 - DUB[/COLOR]</link>
