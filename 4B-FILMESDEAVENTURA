@@ -262,12 +262,11 @@ https://drive.google.com/file/d/1f1RouPngqJyw6WggS1NuC6_GcEJxox00/view</link>
 </item>
 
 
-<channels></channels>
-<channel>
+<item>
 <name>[COLOR lime][B]COLEÇÕES DE FILMES DE AVENTURAS[/B][/COLOR] </name>
 <thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
 <fanart>http://bit.do/fanartsubcat-aventura</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1C1-COLE%C3%87%C3%95ES%20DE%20FILMES%20DE%20AVENTURA</externallink>
-<info>
-COLEÇÕES DE FILMES DE AVENTURAS</info>
+<info>COLEÇÕES DE FILMES DE AVENTURAS</info>
 <genre>AVENTURAS</genre>
+</item>
