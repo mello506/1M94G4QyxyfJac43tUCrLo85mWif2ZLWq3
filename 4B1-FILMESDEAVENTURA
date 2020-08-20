@@ -1,4 +1,23 @@
 <item>
+<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<link>NO LINK</link>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</item>
+
+<item>
+<title>[COLOR blue][B]FILMES DE AVENTURA[/B][/COLOR]</title>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<link>NO LINK</link>
+<info>OS MAIORES DE FILMES DE AVENTURAS ESTÃO AQUI</info>
+<genre>AVENTURA</genre>   
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PATRIOTA - 2000 [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=P5u1am7pmrw$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PATRIOTA[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] O PATRIOTA - 1080 - DUB[/COLOR]</link>
@@ -19,7 +38,7 @@ https://drive.google.com/file/d/1bbIbh9yBtYzic_Uq8Iz_U3jxcyxwmqGn/view</link>
 <info> África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus.</info>
 <genre>AVENTURA</genre>
 </item>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR lime]LS-> A LIGA EXTRAORDINÁRIA - 2003 - 720 - DUB [/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/tj4ADVP9PUk5XfXLaIqIrvkOPAo.jpg</thumbnail>
