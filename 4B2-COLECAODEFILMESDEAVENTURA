@@ -72,34 +72,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
-NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
 
-<channels>
-<channel>
-<name>[COLOR blue][B]COLEÇÕES DE FILMES DE AVENTURAS[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
-<fanart>http://bit.do/fanartsubcat-aventura</fanart>
-<externallink>NOLINK</externallink>
-</channel>
-</channels>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime]PIRATAS DO CARIBE[/COLOR]</name>
-<thumbnail>https://uploaddeimagens.com.br/images/002/413/956/full/46697351.jpg</thumbnail>
-<fanart>https://uploaddeimagens.com.br/images/002/413/915/full/screen-0.jpg</fanart>
-<info>
-COLEÇÃO PIRATAS DO CARIBE COMPLETA</info>
-<genre>AVENTURA</genre>
+
 
 <item>
 <title>[COLOR lime]A MALDIÇÃO DO PÉROLA NEGRA - 1981 - 1080 - DUB[/COLOR]</title>
@@ -151,14 +126,7 @@ https://drive.google.com/file/d/1m70DUkkRHWvNAQpNfzDO-MTCpEI8n67J/view</link>
 <genre>AVENTURA</genre>
 </item>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime]INDIANA JONES[/COLOR]</name>
-<thumbnail>https://1.bp.blogspot.com/-iSQCqWbO7vo/WaMG5xE2t-I/AAAAAAAANbk/mPLzvjy2Xo0pCzbyADUl7SQoKTj_vfEZgCLcBGAs/s1600/Indiana%2BJones%2BCollection%2B2017.jpg</thumbnail>
-<fanart>https://f001.backblazeb2.com/file/papocine/2016/01/20160126-saga-indiana-jones-papo-de-cinema.jpg</fanart>
-<info>
-COLEÇÃO INDIANA JONES COMPLETA</info>
-<genre>AVENTURA</genre>
+
 
 <item>
 <title>[COLOR lime]LS-> INDIANA JONES E OS CAÇADORES DA ARCA PERDIDA - 2017 - 1080- DUB[/COLOR]</title>
@@ -200,14 +168,7 @@ https://drive.google.com/file/d/1iBHqvoMzKbSK7mq6hNPPBSWwXB2UOLFJ/view</link>
 <genre>AVENTURA</genre>
 </item>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime]CONAN[/COLOR]</name>
-<thumbnail>https://uploaddeimagens.com.br/images/002/415/745/full/CONAN.jpg?1570928902</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/yjgKV4B3GZwvCemPGYWcowuRXbp.jpg</fanart>
-<info>
-COLEÇÃO CONAN COMPLETA</info>
-<genre>AVENTURA</genre>
+
 
 <item>
 <title>[COLOR lime]LS-> CONAN O BÁRBARO - 1982 - 720 - DUB[/COLOR]</title>
@@ -249,14 +210,6 @@ https://drive.google.com/file/d/14jY6a1QReazRQ8MQmqNJjMPhkERA2TuQ/view</link>
 <genre>AVENTURA</genre>
 </item>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime]A MÚMIA[/COLOR]</name>
-<thumbnail>https://uploaddeimagens.com.br/images/002/439/269/full/a_mumiaicon.jpg</thumbnail>
-<fanart>https://uploaddeimagens.com.br/images/002/439/371/full/amumiafan.jpg</fanart>
-<info>
-COLEÇÃO A MÚMIA COMPLETA</info>
-<genre>AVENTURA</genre>
 
 <item>
 <title>[COLOR lime]LS-> A MÚMIA 1 - 1999 - 720 - DUB[/COLOR]</title>
@@ -287,34 +240,5 @@ https://drive.google.com/file/d/1B0UcQIEY-IAUVEK2ip4QgkdVHr_ocTtP/view</link>
 <info>O impiedoso imperador dragão é amaldiçoado pela feiticeira Zi Juan, o que faz com que ele e seu exército de 10 mil homens seja petrificado. Mais de dois milênios depois o túmulo do imperador dragão é descoberto por Alex O'Connor, filho dos aventureiros Rick e Evelyn, que deixou os estudos para se dedicar à escavação. Seus pais não sabem do trabalho de Alex, que conta com a ajuda do tio, Jonathan Carnahan, dono de uma boate em Xangai. Atualmente Rick e Evelyn levam uma pacata vida em Londres, mas sentem falta da aventura. Um dia eles recebem a proposta de levar um precioso artefato a Xangai e, usando a desculpa de visitar Jonathan, aceitam a missão. Só que ao chegar eles são abordados pelo general Yang, que deseja trazer o imperador dragão de volta à vida.</info>
 <genre>AVENTURA</genre>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR blue][B]COLEÇÃO THOR[/B][/COLOR]</title>
-<link>NO LINK</link>
-<thumbnail>https://i.ibb.co/TvQNrTv/sub-cat-superherois.png</thumbnail>
-<fanart>https://i.ibb.co/XjFcZ0D/fanartsubcat-superherois.jpg</fanart>
-<info>O DEUS DO TROVÃO VAI ARREBENTAR SEUS INIMIGOS</info>
-<genre>SUPER HERÓIS</genre>
-<item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] THOR - RAGNAROK - 2017 [/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=xIesLNpbBA4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] THOR - RAGNAROK[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oW78Af6HM1D9hVagcaBgWwt9BmcWgHHs/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THOR - RAGNAROK - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EDF7E7BD4F66930881D69418142CB29F3AED755&dn=Thor%20-%20Ragnarok%202018%20%281080p%29%20DUBLADO%20&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] THOR - RAGNAROK - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=1wlba5xHzvE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THOR - RAGNAROK - 1080 - DUB[/COLOR]</link>
-
-<thumbnail>https://i.ibb.co/jGpcVhM/thorragnarok-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/M5zRmRy/thorragnarok-fan.jpg</fanart>
-<info>Thor é preso do outro lado do universo, sem o seu martelo poderoso e encontra-se numa corrida contra o tempo para voltar a Asgard e impedir Ragnarok – a destruição do seu mundo e o fim da civilização Asgardiana -, que se encontra nas mãos de uma nova e poderosa ameaça, a implacável Hela. Mas, primeiro precisa de sobreviver a uma luta mortal de gladiadores, que o coloca contra um ex-aliado e companheiro Vingador – Hulk.</info>
-<genre>SUPER HERÓIS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-
-
-
 
 
