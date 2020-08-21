@@ -23,16 +23,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>NOVELA</genre>  
 </item>
 
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] teste avi - DATA - RESOLUCAO - DUBLEG[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tByDIt4QqmHs_qTSK6-3zVk1uGyz59SK/view
-$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] isaura avi - 2006 - 1080 - DUB[/COLOR]</link>
-
-
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
-</item>
