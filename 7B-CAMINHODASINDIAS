@@ -22,3 +22,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Na trama central, uma paixão proibida entre dois indianos de origem muito diferentes. Maya, funcionária de um telemarketing do Rajastão, pertence a uma tradicional família da casta dos comerciantes. Bahuan está se formando nos Estados Unidos, onde trabalha, mas nunca esqueceu as humilhações que passou na infância por ser um dalit (intocável) – parte do contingente humano que os textos sagrados definem como \”a poeira aos pés do deus Brahma\”, aqueles considerados impuros e condenados a nem mesmo tocar com sua sombra um integrante das altas castas. Este sistema já foi banido pelas leis indianas, porém não pelos costumes.</info>
 <genre>NOVELA</genre>  
 </item>
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] teste avi - DATA - RESOLUCAO - DUBLEG[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tByDIt4QqmHs_qTSK6-3zVk1uGyz59SK/view
+$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] isaura avi - 2006 - 1080 - DUB[/COLOR]</link>
+
+
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>  
+</item>
