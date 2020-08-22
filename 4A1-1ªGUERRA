@@ -97,18 +97,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <item>
-<title>[COLOR lime]LS-> TERRENO PROIBIDO - 2013 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrGmoes5UHTNji3lusozGZgINN1.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rLMTHSJS4KxGCfcczjiYtbWiZS2.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1V0m39Qs4PyI4LwB9QPSILJYsqSVhcPo3/view</link>
-<info>Três soldados ingleses ficam encurralados entre duas trincheiras alemãs após serem surpreendidos por um explosão durante a Primeira Guerra Mundial. Situado em França 1916.</info>
-<genre>GUERRA</genre>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] TERRENO PROIBIDO - 2013 - DUBLEG[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=jAE_eiX6-hY$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] TERRENO PROIBIDO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1V0m39Qs4PyI4LwB9QPSILJYsqSVhcPo3/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] TERRENO PROIBIDO - 2013 - 1080 - DUBLEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e199557abdb089b20a2f2085a37ec03a11ecdd53&dn=Terreno+Proibido+%282013%29+BDRip+720p+dublado+-+Gilkerberus&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] TERRENO PROIBIDO - 2013 - RES - DUBLEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] TERRENO PROIBIDO - 2013 - RES - DUBLEG[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=_YIYcruRcSc$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] TERRENO PROIBIDO - 2013 - RES - DUBLEG[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] TERRENO PROIBIDO - 2013 - RES - DUBLEG[/COLOR]</link>
+
+<thumbnail>https://media.fstatic.com/LboYB3a_QJxkrMbRyL4HzoC5MSI=/290x478/smart/media/movies/covers/2019/01/ccc6f609-5133-4298-b4d6-a23400e15ed6_COVER.jpg</thumbnail>
+<fanart>FANART</fanart>
+<info>Terreno Proibido é a incrível história de um trio de soldados na Primeira Guerra Mundial, surpreendidos em uma explosão, que ficam encurralados entre duas trincheiras. Desesperados para chegar à segurança das trincheiras inglesas, os homens precisam atravessar um lamaçal e enfrentar um bombardeio de granadas, gás, rajada de metralhadoras e artilharia pesada, à medida que os alemães rapidamente se aproximam de sua localização. Com autenticidade e impressionantes efeitos, este filme mostra a guerra como jamais vista. Situado em França 1916.</info>
+<genre>1ª GUERRA</genre>  
 </item>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <item>
 <title>[COLOR lime]LS-> O SILÊNCIO DA MONTANHA - 2014 - 720 - DUB[/COLOR]</title>
