@@ -69,7 +69,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07b89a0472f2779ad2b55c9e4c37d839243bd9bb&dn=Cavalo.De.Guerra.%282011%29.720p.HD.Dublado.PT-BR.210GJI&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CAVALO DE GUERRA - 2011 - 720 - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CAVALO DE GUERRA - 2011 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] CAVALO DE GUERRA - 2011 - 1080 - DUB[/COLOR]</link>
 
 <link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] CAVALO DE GUERRA - 2011 - 1080 - DUB[/COLOR]</link>
 
