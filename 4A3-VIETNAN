@@ -49,3 +49,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre> 
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] DE VOLTA PARA O INFERNO - 1983 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=7S0ulyUmw-8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] DE VOLTA PARA O INFERNO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QsrBXRbwYmSOBAT2DRwyTLaA89wHogq7/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] DE VOLTA PARA O INFERNO - 1983 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] DE VOLTA PARA O INFERNO - 1983 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] DE VOLTA PARA O INFERNO - 1983 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] DE VOLTA PARA O INFERNO - 1983 - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] DE VOLTA PARA O INFERNO - 1983 - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://http2.mlstatic.com/dvd-de-volta-para-o-inferno-dublado-com-gene-hackman-D_NQ_NP_637715-MLB25301985724_012017-F.jpg</thumbnail>
+<fanart>http://br.web.img2.acsta.net/pictures/14/05/09/13/04/586585.jpg</fanart>
+<info>Dez anos depois do filho ter sido declarado morto, um coronel decide procurá-lo. Algumas evidências indicam que seu filho pode estar vivo. Com a ajuda financeira de um magnata e de cinco fuzileiros, ele embarca em uma missão de resgate no Vietnã.</info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
