@@ -65,4 +65,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] FOMOS HERÓIS - 2002 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=1qVVlCENeEg$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] FOMOS HEROIS[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FpeNHekQ4pgDi8jUnGohv3suZxs7Wz58/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FOMOS HEROIS - 2002 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] FOMOS HEROIS - 2002 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IRDOP6EK2UXNCWNT7GHN5BLXE24ZGEGB&dn=COMANDO.TO%20-%20Fomos%20Herois%202002%20%5B1080p%5D%20%5BDUAL%5D$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] FOMOS HEROIS - 2002 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=mUX2Ang5WhM$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FOMOS HEROIS - 2002 - RES - DUB[/COLOR]</link>
+<link>https://osiolistic.azureedge.net/RCFServer3/ondemand/FMSHRS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] FOMOS HEROIS - 2002 - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUaYbAb1TiSmOUprrV74geCQ9HS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vHYsyLSNRSAtuiSuW1cTW9P51D1.jpg</fanart>
+<info>Em plena Guerra do Vietnã, o tenente-coronel Hal Moore e mais 400 integrantes do exército norte-americano, todos da elite de combate, são cercados por 2000 soldados vietnamitas. A batalha que se segue a partir de então se torna uma das mais sangrentas da história militar norte-americana, fazendo com que posteriormente o lugar onde ela ocorreu seja conhecido como o Vale da Morte.</info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
