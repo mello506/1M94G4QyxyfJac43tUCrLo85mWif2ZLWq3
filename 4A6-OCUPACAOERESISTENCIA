@@ -17,5 +17,24 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 <genre>GUERRA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LISTA DE SCHINDLER - 1993 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=A99_MiXqucU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LISTA DE SCHINDLER[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vg-koiIngMiBKBC7zZW8uzDnTKjucgV_/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LISTA DE SCHINDLER - 1993 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] A LISTA DE SCHINDLER - 1993 - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FC2E9979954F2AEAFF1979233333F6FA420137AF&dn=A%20Lista%20de%20Schindler%20-%20%20%281993%29%201080p%20dublado%20-%20Torrent%20-%20F%C3%A1bio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LISTA DE SCHINDLER - 1993 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] A LISTA DE SCHINDLER - 1993 - RES - DUB[/COLOR]</link>
+
+<link>https://osiolistic.azureedge.net/RCFServer4/ondemand/ALSTDSCHDLR.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] A LISTA DE SCHINDLER - 1993 - 1080 - DUB[/COLOR]</link>
+
+
 <thumbnail>http://www.vortexcultural.com.br/images/2019/05/A-Lista-de-Schindler.jpg</thumbnail>
 <fanart>https://miro.medium.com/max/1200/1*wRfwsWqXLJc1ih013QD36g.jpeg</fanart>
+<info> O alemão que abdicou de toda sua fortuna para salvar a vida de mais de mil judeus em plena luta contra o extermínio alemão..</info>
+<genre>GUERRA</genre> 
+</item>
