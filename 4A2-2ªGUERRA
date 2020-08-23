@@ -30,7 +30,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iVdjPGTWQ3PcEE6faZSoIAOPvX.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6O0lsCK90jZCyPvyYSt8Szzlnd6.jpg</fanart>
 <info>Desmond T. Doss, foi o médico do Exército Americano da Segunda Guerra Mundial, que serviu durante a Batalha de Okinawa, se recusando a matar pessoas, tornando-se o primeiro homem da história americana a receber a Medalha de Honra sem disparar um tiro.</info>
-<genre>2ª GUERRA</genre>
+<genre>GUERRA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZ3jDTycla1JasNg6h7Gg1sEIys.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/h7TpINCBCvkdoWNXXuZQdSl9qM4.jpg</fanart>
 <info>Ao desembarcar na Normandia, no dia 6 de junho de 1944, capitão Miller (Tom Hanks) recebe a missão de comandar um grupo do segundo batalhão para o resgate do soldado James Ryan, caçula de quatro irmãos, dentre os quais três morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.</info>
-<genre>2ª GUERRA</genre>
+<genre>GUERRA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
@@ -62,7 +62,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KDu0g9VMZp9JXeh7psNzJZBbQm.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5YpW70sqqyJXF0swNqDRtDWxiDm.jpg</fanart>
 <info>A força aérea norte-americana sofre muitas baixas devido aos bombardeiros em suas missões contra a Alemanha. O governo começa a considerar a possibilidade de ter pilotos afrodescendentes. Surge, então, a chance destes jovens mostrarem sua coragem.</info>
-<genre>2ª GUERRA</genre>
+<genre>GUERRA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
@@ -78,7 +78,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://image.tmdb.org/t/p/w185/brVPZyqIdTAScO8vg1Au8fbsd0b.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/rj-JKfEu12k/maxresdefault.jpg</fanart>
 <info>Natal de 1944. Os alemães fazem um último ataque contra os exércitos dos Aliados. O tenente Robert Cappa e seu pelotão receberam ordens para manter seguro um entroncamento rodoviário vital, situado em uma região entre a Bélgica, Luxemburgo e a Alemanha, contra a ofensiva dos soldados de Hitler.</info>
-<genre>2ª GUERRA</genre>
+<genre>GUERRA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
@@ -97,16 +97,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre> 
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>
-<title>[COLOR lime]LS-> ASSASINOS DE GUERRA - 2019  - 1080 - DUB[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] ASSASINOS DE GUERRA - 2019 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=xG1XRRjQBxc$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ASSASINOS DE GUERRA[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LqUsSjGF2jRZwJyDIBw9YT-LPw_6oox7/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ASSASINOS DE GUERRA - 2019 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DC1B3870A96A9297976A47EEA2E19C3114FDEBE&dn=Assassinos%20de%20Guerra%202019%20%28720p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] ASSASINOS DE GUERRA - 2019 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:093597609FB91DDD6A8DDDC576C24C2200CE73BA&dn=Assassinos%20de%20Guerra%202019%20%281080p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] ASSASINOS DE GUERRA - 2019 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=2cJ9Wx18LnA$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ASSASINOS DE GUERRA - 2019 - 1080 - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] ASSASINOS DE GUERRA - 2019 - RES - DUB[/COLOR]</link>
+
 <thumbnail>https://image.tmdb.org/t/p/w342/g4Mpkc1uky5tWjKLXXWUZRioKIN.jpg</thumbnail>
 <fanart>https://i.imgur.com/vZ59ZVn.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1LqUsSjGF2jRZwJyDIBw9YT-LPw_6oox7/view</link>
 <info>No ano de 1944, um grupo de soldados americanos fica conhecido como "The Filthy Thirteen" por terem se tornado um problema crescente para seus superiores, desobedecendo ordens atrás de ordens. Até que esses oficiais rebeldes são selecionados para integrarem a primeira unidade a saltar de pára-quedas atrás das linhas alemãs, durante a invasão da Normandia.</info>
-<genre>2ª GUERRA</genre>
+<genre>GUERRA</genre>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR lime]LS-> A CONQUISTA DA HONRA - 2006  - 1080 - DUB[/COLOR]</title>
