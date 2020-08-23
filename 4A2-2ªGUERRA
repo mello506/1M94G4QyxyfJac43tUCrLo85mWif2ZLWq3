@@ -113,6 +113,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAX MANUS - O HOMEM DA GUERRA - 2008 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=WbK4WTQFf9U$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAX MANUS - O HOMEM DA GUERRA[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] MAX MANUS - O HOMEM DA GUERRA - 2008 - RES - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4AF6FE2779D98445156D689F4A75588D4DF2BFF4&dn=%%5d%20-%20Max%20Manus%20%282008%29%20720p%20Dual&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] MAX MANUS - O HOMEM DA GUERRA - 2008 - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] MAX MANUS - O HOMEM DA GUERRA - 2008 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=JENeuPfVunA$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAX MANUS - O HOMEM DA GUERRA - 2008 - RES - DUB[/COLOR]</link>
+
+<link>https://osiolistic.azureedge.net/RCFServer4/ondemand/MAXMNSOHMNDGURA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAX MANUS - O HOMEM DA GUERRA - 2008 - RES - DUB[/COLOR]</link>
+
+
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <item>
 <title>[COLOR lime]LS-> A CONQUISTA DA HONRA - 2006  - 1080 - DUB[/COLOR]</title>
