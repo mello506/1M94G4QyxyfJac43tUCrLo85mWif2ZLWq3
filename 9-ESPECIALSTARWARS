@@ -24,13 +24,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Nj74Kn6_mf25VTaOukfvTNxcn5Df9fhq/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A AMEACA FANTASMA - 1999 - 1080 - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0fc6663c3931179aab29543e977b0777c74b846b&dn=COMANDOTORRENTSHD.NET.Star+Wars+I%3A+A+Ameaca+Fantasma+%281999%29+720p+HD+Dublado+Pt+Br&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A69$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] A AMEACA FANTASMA - 1999 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0fc6663c3931179aab29543e977b0777c74b846b&dn=COMANDOTORRENTSHD.NET.Star+Wars+I%3A+A+Ameaca+Fantasma+%281999%29+720p+HD+Dublado+Pt+Br&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A69$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A AMEACA FANTASMA - 1999 - 720 - DUB[/COLOR]</link>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1412FD75DCDD033CD1F5CA23358F99B3B898C4DB&dn=comandotorrentshd.net.stars+wars+episodio+i+a+amea%C3%A7a+fantasma+1999+1080p+5+1+bluray+dual+audio+portugues+english+wolverdon+sawlyn&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A AMEACA FANTASMA - 1999 - 1080 - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A AMEACA FANTASMA - 1999 - RES - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] A AMEACA FANTASMA - 1999 - RES - DUB[/COLOR]</link>
 
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] A AMEACA FANTASMA - 1999 - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] A AMEACA FANTASMA - 1999 - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/DKs9HYF/starwarssaga-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/Q6TLJbw/starwarssaga-fan.jpg</fanart>
