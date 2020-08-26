@@ -1,25 +1,51 @@
 <channels>
 <channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
-<externallink>https://</externallink>
+<link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
+</item>
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]SERVER 1 [/B][/COLOR]</name>
+<name>[COLOR blue][B]SÉRIES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
 <externallink>https://</externallink>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>OS LINKS DESSE SERVIDOR PODEM CAIR FACILMENTE 
-REPORTE LINKS OFF NO EMAIL
-luminartstudio4@gmail.com</info>
-
+<info>TESTES COM SÉRIES NOVO SERVIDOR</info>
+<genre>SÉRIES</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels></channels>
+<channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O IMPÉRIO OTOMANO - T01 - 2020 - DUB[/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<externallink>https://pastebin.com/raw/iak3B81y</externallink>
+<fanart>FANART</fanart>
+<info>O IMPERIO OTOMANO</info>
+<genre>ANIMAÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels></channels>
+<channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ARQUIVO X - T01 - 1993 - DUB[/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<externallink>https://pastebin.com/raw/AjQq4iZg</externallink>
+<fanart>FANART</fanart>
+<info>O IMPERIO OTOMANO</info>
+<genre>ANIMAÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels></channels>
+<channel>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] OO7 - COLEÇÃO [/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<externallink>https://pastebin.com/raw/nM6YeQgm</externallink>
+<fanart>FANART</fanart>
+<info>OO7 - COLEÇÃO</info>
+<genre>ANIMAÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B]NOVO SERVIDOR[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 COLEÇAO COMPLETA - 1962 - 2016 - 1080 - DUB[/COLOR]</name>
