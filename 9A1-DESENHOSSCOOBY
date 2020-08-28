@@ -77,11 +77,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] O QUE HÁ DE NOVO SCOOBY-DOO ? - 1ª TEMP - 2002 a 2006 - 720 - DUB[/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] O QUE HÁ DE NOVO SCOOBY-DOO ? - COMPLETO - 2002 a 2006 - 720 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=kVj4mjR6Dhg$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O QUE HA DE NOVO SCOOBY-DOO ?[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] O QUE HA DE NOVO SCOOBY-DOO ? - 2002 - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:732DD61A71E28DFA0FE308005D184F882A82F0FF&dn=hidratorrent.com%20-%20O%20QUE%20H%c3%81%20DE%20NOVO%20SCOOBY%20DOO%20-%201%c2%aa%20TEMP&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] O QUE HA DE NOVO SCOOBY-DOO ? - 2002 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:732dd61a71e28dfa0fe308005d184f882a82f0ff$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O QUE HA DE NOVO SCOOBY-DOO ? - 2002 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] O QUE HA DE NOVO SCOOBY-DOO ? - 2002 - DUB[/COLOR]</link>
+
 
 <thumbnail>https://i.ibb.co/NnZ76DQ/espscooby-doo-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/4tXYhHm/espscooby-doo-fan.jpg</fanart>
