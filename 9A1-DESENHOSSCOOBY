@@ -1,23 +1,22 @@
-<channels>
-<channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
+<item>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
+</item>
 
-<channels></channels>
-<channel>
+<item>
 <name>[COLOR lime]SCOOBY DOO CADÊ VOCÊ - 1ª TEMPORADA[/COLOR] </name>
 <thumbnail>https://image.tmdb.org/t/p/original/jaj4WYcUENGvn4A6CzKh0h1Yo3z.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/jBWrRPuIdftrxYt4tCcyktgdQIC.jpg</fanart>
 <info>
 OS FANTASMAS QUE SE CUIDEM</info>
 <genre>DESENHOS</genre>
-
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] SCOOBY-DOO CADÊ VOCÊ? COMPLETO - 1969-1970 - 1080 - DUB[/COLOR]</title>
 
