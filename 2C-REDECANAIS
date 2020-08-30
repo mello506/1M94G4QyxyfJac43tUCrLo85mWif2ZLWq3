@@ -22,49 +22,58 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]REDECANAIS  [COLOR yellow]AÇÃO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601506.us.archive.org/30/items/redecanais_20200623_2114/REDECANAIS%20A%C3%87%C3%83O.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/igQkfX0Q</externallink>
-<fanart>https://ia601406.us.archive.org/30/items/fanarts/fanart%20a%C3%A7%C3%A3o.jpg</fanart>
-<info>
-
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]REDECANAIS  [COLOR yellow]AVENTURA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601506.us.archive.org/30/items/redecanais_20200623_2114/REDECANAIS%20AVENTURA.jpg</thumbnail>
+<name>[COLOR lime][B]AVENTURA[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<fanart>http://bit.do/fanartcat-filmes</fanart>
 <externallink>https://pastebin.com/raw/sjzBYP0j</externallink>
-<fanart>https://ia601406.us.archive.org/30/items/fanarts/fanart%20a%C3%A7%C3%A3o.jpg</fanart>
 <info>
+   REDE CANAIS AVENTURA</info>
+</channel>
+</channels>
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]REDECANAIS  [COLOR yellow]DIVERSOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601506.us.archive.org/30/items/redecanais_20200623_2114/REDECANAIS%20DIVERSOS.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/wnThVcMy</externallink>
-<fanart>https://ia601406.us.archive.org/30/items/fanarts/fanart%20a%C3%A7%C3%A3o.jpg</fanart>
+<name>[COLOR lime][B]AÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<fanart>http://bit.do/fanartcat-filmes</fanart>
+<externallink>https://pastebin.com/raw/igQkfX0Q</externallink>
 <info>
+   REDE CANAIS AÇÃO</info>
+</channel>
+</channels>
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]REDECANAIS  [COLOR yellow]FICÇAO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601506.us.archive.org/30/items/redecanais_20200623_2114/REDECANAIS%20FIC%C3%87%C3%83O.jpg</thumbnail>
+<name>[COLOR lime][B]FICÇAO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<fanart>http://bit.do/fanartcat-filmes</fanart>
 <externallink>https://pastebin.com/raw/6sc5s9F6</externallink>
-<fanart>https://ia601406.us.archive.org/30/items/fanarts/fanart%20a%C3%A7%C3%A3o.jpg</fanart>
 <info>
+   REDE CANAIS FICÇAO</info>
+</channel>
+</channels>
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]REDECANAIS  [COLOR yellow]INFANTIL[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601506.us.archive.org/30/items/redecanais_20200623_2114/REDECANAIS%20INFANTIL.jpg</thumbnail>
+<name>[COLOR lime][B]INFANTIL[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<fanart>http://bit.do/fanartcat-filmes</fanart>
 <externallink>https://pastebin.com/raw/av9uXeVb</externallink>
-<fanart>https://ia601406.us.archive.org/30/items/fanarts/fanart%20a%C3%A7%C3%A3o.jpg</fanart>
 <info>
+   REDE CANAIS INFANTIL</info>
+</channel>
+</channels>
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR]REDECANAIS  [COLOR yellow]ADULTO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601407.us.archive.org/9/items/redecanais-adulto_202007/REDECANAIS%20ADULTO.jpg</thumbnail>
+<name>[COLOR lime][B]ADULTO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<fanart>http://bit.do/fanartcat-filmes</fanart>
 <externallink>https://pastebin.com/raw/WuVcDNK8</externallink>
-<fanart>https://www.xvideos.com.br/contents/videos_screenshots/2000/2612/preview.jpg</fanart>
 <info>
+   REDE CANAIS ADULTO</info>
+</channel>
+</channels>
+
+
+
