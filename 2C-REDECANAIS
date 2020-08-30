@@ -1,11 +1,22 @@
 <channels>
 <channel>
-<name>[COLOR lime][B]FILMES DIVERSOS[/B][/COLOR]</name>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[COLOR blue][B]REDE CANAIS[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/fanartcat-filmes</fanart>
-<externallink>https://pastebin.com/raw/Vv3t5GVj</externallink>
+<externallink>https://</externallink>
 <info>
-   REDE CANAIS DIVERSOS</info>
+   LINKS INSTAVEIS AINDA EM TESTES</info>
 </channel>
 </channels>
 
@@ -14,7 +25,7 @@
 <name>[COLOR lime][B]FILMES DIVERSOS[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/fanartcat-filmes</fanart>
-<externallink>https://</externallink>
+<externallink>https://pastebin.com/raw/Vv3t5GVj</externallink>
 <info>
    REDE CANAIS DIVERSOS</info>
 </channel>
