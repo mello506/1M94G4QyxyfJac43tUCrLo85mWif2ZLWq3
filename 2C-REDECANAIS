@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]FILMES DIVERSOS[/B][/COLOR]</name>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]FILMES DIVERSOS[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/fanartcat-filmes</fanart>
 <externallink>https://pastebin.com/raw/Ei5jahPZ</externallink>
@@ -33,7 +33,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]AVENTURA[/B][/COLOR]</name>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]AVENTURA[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/fanartcat-filmes</fanart>
 <externallink>https://pastebin.com/raw/hQnnXKS5</externallink>
@@ -44,7 +44,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]AÇÃO[/B][/COLOR]</name>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]AÇÃO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/fanartcat-filmes</fanart>
 <externallink>https://pastebin.com/raw/RfV4aXjC</externallink>
@@ -55,7 +55,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]FICÇAO[/B][/COLOR]</name>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]FICÇAO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/fanartcat-filmes</fanart>
 <externallink>https://pastebin.com/raw/rJf9EVkC</externallink>
@@ -66,7 +66,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]INFANTIL[/B][/COLOR]</name>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]INFANTIL[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/fanartcat-filmes</fanart>
 <externallink>https://pastebin.com/raw/jYTDBwvS</externallink>
@@ -77,12 +77,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B]ADULTO[/B][/COLOR]</name>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B]ADULTO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/fanartcat-filmes</fanart>
 <externallink>https://pastebin.com/raw/b7qf1Zf5</externallink>
 <info>
    REDE CANAIS ADULTO</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] BIBLIA - COMPLETO  DUB[/COLOR]</name>
+<externallink>https://pastebin.com/raw/LE3MaqGS</externallink>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>
+   REDE CANAIS SÉRIES A BIBLIA</info> 
 </channel>
 </channels>
 
