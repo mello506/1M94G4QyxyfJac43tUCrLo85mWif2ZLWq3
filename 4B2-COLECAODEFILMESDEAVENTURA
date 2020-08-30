@@ -9,7 +9,7 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] COLEÇÕES DE FILMES DE AVENTURA [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<title>[COLOR blue][B] COLEÇÕES DE FILMES DE AVENTURA [/B][/COLOR]</title>
 <link>NO LINK</link>
 <thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
 <fanart>http://bit.do/fanartsubcat-aventura</fanart>
@@ -18,7 +18,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] COLEÇÃO THOR [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<title>[COLOR blue][B] COLEÇÃO THOR [/B][/COLOR]</title>
 <link>NO LINK</link>
 <thumbnail>https://i.ibb.co/TvQNrTv/sub-cat-superherois.png</thumbnail>
 <fanart>https://i.ibb.co/XjFcZ0D/fanartsubcat-superherois.jpg</fanart>
@@ -41,7 +41,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue] COLEÇÃO PIRATAS DO CARIBE [/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<title>[COLOR blue] COLEÇÃO PIRATAS DO CARIBE [/COLOR]</title>
 <link>NO LINK</link>
 <thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
 <fanart>http://bit.do/fanartsubcat-aventura</fanart>
@@ -53,15 +53,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] PIRATAS DO CARIBE - 1981 A 2017 - 1080 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=bAHYTWulajQ&feature=emb_logo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] PIRATAS DO CARIBE[/COLOR]</link>
-
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1v1ZckBpRF10Uwmg0AbZi5zcxnuvCTXdD/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A MALDICAO DO PEROLA NEGRA - 1981 - 1080 - DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QjZ0eQdDM2PbORdhPl4lPVIjWTnaZBgf/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O BAU DA MORTE - 2006 - 1080 - DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lhxy4LWcExA0wd_zos1v5203LD0lb00F/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] NO FIM DO MUNDO - 2011 - 1080 - DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bXfHHO80FvIG042HfydYV4A9i5lBCsFz/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] NAVEGANDO EM AGUAS MISTERIOSAS - 2011 - 720 - DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1m70DUkkRHWvNAQpNfzDO-MTCpEI8n67J/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A VINGANCA DE SALAZAR - 1080 - 1080 - DUB[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
@@ -75,9 +70,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] O SENHOR DOS ANÉIS - DATA - 1080 - DUB[/COLOR]</title>
 
 <link>http://www.joatt.com.br/FILMES/TRIOLOGIA-SENHOR-ANEIS/1%20O%20Senhor%20dos%20An%c3%a9is%20-%20A%20Sociedade%20do%20Anel%202001/O.Senhor.dos.An%c3%a9is.A.Sociedade.do.Anel.Estendido.2001.1080p-WOLVERDONFILMES.COM.srt.mkv$$lsname=[B]ALTERNATIVO[/B][COLOR yellow] ->[/COLOR][COLOR lime] A SOCIEDADE DO ANEL - 2001 - 1080 - DUB[/COLOR]</link>
-
 <link>http://www.joatt.com.br/FILMES/TRIOLOGIA-SENHOR-ANEIS/2%20O%20Senhor%20dos%20An%c3%a9is%20-%20As%20Duas%20Torres%202002/O.Senhor.dos.An%c3%a9is.As.Duas.Torres.Estendido.2002.1080p-WOLVERDONFILMES.COM.mkv$$lsname=[B]ALTERNATIVO[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS DUAS TORRES - 2002 - 1080 - DUB[/COLOR]</link>
-
 <link>http://www.joatt.com.br/FILMES/TRIOLOGIA-SENHOR-ANEIS/3%20O%20Senhor%20Dos%20An%c3%a9is%20-%20O%20Retorno%20Do%20Rei/O_Senhor_Dos_An%c3%a9is_O_Retorno_Do_Rei_2003_720p_210GJI.mp4$$lsname=[B]ALTERNATIVO[/B][COLOR yellow] ->[/COLOR][COLOR lime] O RETORNO DO REI - 2003 - 1080 - DUB[/COLOR]</link>
 
 <thumbnail>http://www.joatt.com.br/FILMES/TRIOLOGIA-SENHOR-ANEIS/1%20O%20Senhor%20dos%20An%c3%a9is%20-%20A%20Sociedade%20do%20Anel%202001/poster.jpg</thumbnail>
