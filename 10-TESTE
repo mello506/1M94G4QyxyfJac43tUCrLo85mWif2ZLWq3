@@ -11,7 +11,7 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels>
 <channel>
-<name>[B]SERVER ALTERNATIVO[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI COLEÇÃO - DATA - DUB[/COLOR]</name>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESPECIAL 007[/COLOR]</name>
 <externallink>https://pastebin.com/uaFzwQaS</externallink>
 <thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
 <fanart>http://bit.do/fanartsubcat-aventura</fanart>
@@ -20,22 +20,23 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels></channels>
 <channel>
-<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI COLEÇÃO - DATA - DUB[/COLOR]</name>
-<thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
-<fanart>http://bit.do/fanartsubcat-aventura</fanart>
-<info>
-OS MELHORES FILMES DE AVENTURAS ESTÃO AQUI</info>
-<genre>AVENTURAS</genre>
+<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI ESPECIAL 007[/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-007</thumbnail>
+<fanart>http://bit.do/fanartsubcat-007</fanart>
+<info>MUITA ESPIONAGEM E AÇÃO COM O CHARMOSO JAMES BOND</info>
+<genre>AÇÃO</genre>
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI COLEÇÃO - DATA - DUB[/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 COLEÇAO COMPLETA - 1962 - 2016 - 1080 - DUB[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=iKbXQk3xRaQ$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Ii1tc493bZM$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007[/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c13b1ce21a17e37eac882f2a748820d70fbda91&dn=Mazzaropi+Cole%26ccedil%3B%26atilde%3Bo+DVD+Pack&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT SD[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI - SD - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5657259266875D041EA818D3151E618779BA14F7&dn=james+bond+007+collection+24+filmes+dublado+5+1+canais+1080p+ComandoFilmes+johnl&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce$$lsname=[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 - COLECAO COMPLETA - DUB[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
-<info>Amácio Mazzaropi foi um ator, humorista, cantor e cineasta brasileiro. Considerado o maior cômico do cinema brasileiro, é o único artista que ficou milionário fazendo filmes no país. Suas produções foram fenômeno de público por mais de três décadas</info>
-<genre>NACIONAL</genre>  
+<thumbnail>http://bit.do/iconesubcat-007</thumbnail>
+<fanart>http://bit.do/fanartsubcat-007</fanart>
+<info><info>O personagem foi apresentado ao público em livros de bolso na década de 1950, com a novela Casino Royale, tornando-se um sucesso de venda e popularidade entre os britânicos e, logo a seguir, entre os países de língua inglesa. Na década seguinte, os livros viraram uma grande franquia no cinema, a mais duradora e bem sucedida financeiramente, com um total de vinte dois filmes oficiais.</info></info>
+<genre>AÇÃO</genre>  
 </item>
+
