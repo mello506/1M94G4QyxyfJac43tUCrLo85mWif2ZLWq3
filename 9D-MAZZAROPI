@@ -11,27 +11,36 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 
 <channels>
 <channel>
+<name>[COLOR blue][B]SEÇÃO ESPECIAL MAZZAROPI COLEÇÃO - DUB[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>ESCOLHA O SERVIDOR  PARA ASSISTIR</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
 <name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI COLEÇÃO - DUB[/COLOR]</name>
 <externallink>https://pastebin.com/raw/uaFzwQaS</externallink>
 <thumbnail>ICONE</thumbnail>
 <fanart>FANART</fanart>
+<info>Amácio Mazzaropi foi um ator, humorista, cantor e cineasta brasileiro. Considerado o maior cômico do cinema brasileiro, é o único artista que ficou milionário fazendo filmes no país. Suas produções foram fenômeno de público por mais de três décadas</info>
+<genre>NACIONAL</genre>  
 </channel>
 </channels>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
-<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI COLEÇÃO - DATA - DUB[/COLOR]</name>
+<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI COLEÇÃO - DUB[/COLOR]</name>
 <thumbnail>ICONE</thumbnail>
 <fanart>FANART</fanart>
-<info>
-OS MELHORES FILMES DE AVENTURAS ESTÃO AQUI</info>
-<genre>AVENTURAS</genre>
-
+<info>Amácio Mazzaropi foi um ator, humorista, cantor e cineasta brasileiro. Considerado o maior cômico do cinema brasileiro, é o único artista que ficou milionário fazendo filmes no país. Suas produções foram fenômeno de público por mais de três décadas</info>
+<genre>NACIONAL</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI COLEÇÃO - DUB [/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=iKbXQk3xRaQ$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI[/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c13b1ce21a17e37eac882f2a748820d70fbda91&dn=Mazzaropi+Cole%26ccedil%3B%26atilde%3Bo+DVD+Pack&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT SD[/B][COLOR yellow] ->[/COLOR][COLOR lime] MAZZAROPI - SD - DUB[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
@@ -39,4 +48,4 @@ OS MELHORES FILMES DE AVENTURAS ESTÃO AQUI</info>
 <info>Amácio Mazzaropi foi um ator, humorista, cantor e cineasta brasileiro. Considerado o maior cômico do cinema brasileiro, é o único artista que ficou milionário fazendo filmes no país. Suas produções foram fenômeno de público por mais de três décadas</info>
 <genre>NACIONAL</genre>  
 </item>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
