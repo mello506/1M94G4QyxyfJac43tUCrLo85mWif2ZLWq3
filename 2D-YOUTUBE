@@ -34,3 +34,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>http://bit.do/iconesubcat-western</thumbnail>
 <fanart>http://bit.do/fanartsubcat-western</fanart>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GUERRA - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yB0t2jhlr-a2x8vuYnXXuRv/?page=0</jsonrpc>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVENTURA - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yCac__UaSpFzCm6pm68NTq-/?page=0</jsonrpc>
+<thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
+<fanart>http://bit.do/fanartsubcat-aventura</fanart>
+</item>
