@@ -1,0 +1,27 @@
+<item>
+<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<link>NO LINK</link>
+<info>
+[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+EMAIL - luminartstudio4@gmail.com
+   </info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CANGAÇO - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yCfe3AjAMM021hJpiS41zle/?page=0</jsonrpc>
+<thumbnail>https://i.pinimg.com/originals/ed/05/73/ed0573bc38b00d187388a3f3c546ff6b.jpg</thumbnail>
+<fanart>https://farm8.staticflickr.com/7842/33647515108_65bef97e87_h.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] WESTERN - COLEÇÃO - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yBJfSbdmzY2Xmwu6wyYCpND/?page=0</jsonrpc>
+<thumbnail>http://bit.do/iconesubcat-western</thumbnail>
+<fanart>http://bit.do/fanartsubcat-western</fanart>
+</item>
