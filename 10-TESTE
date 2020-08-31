@@ -9,30 +9,38 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR blue][B]SEÇÃO ESPECIAL JAMES BOND - 007[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-007</thumbnail>
+<fanart>http://bit.do/fanartsubcat-007</fanart>
+<info>ESCOLHA O SERVIDOR  PARA ASSISTIR</info>
+</channel>
+</channels>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
-<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESPECIAL 007[/COLOR]</name>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESPECIAL JAMES BOND - 007[/COLOR]</name>
 <externallink>https://pastebin.com/raw/nM6YeQgm</externallink>
-<thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
-<fanart>http://bit.do/fanartsubcat-aventura</fanart>
+<thumbnail>http://bit.do/iconesubcat-007</thumbnail>
+<fanart>http://bit.do/fanartsubcat-007</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] ESPECIAL 007[/COLOR]</name>
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
+<thumbnail>http://bit.do/iconesubcat-007</thumbnail>
+<fanart>http://bit.do/fanartsubcat-007</fanart>
 <info>
-OS MELHORES FILMES DE AVENTURAS ESTÃO AQUI</info>
+O MAIS FAMOSO E CHARMOSO ESPIÃO DE TODOS OS TEMPOS</info>
 <genre>AVENTURAS</genre>
 
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 COLEÇAO COMPLETA - 1962 - 2016 - 1080 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=Ii1tc493bZM$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007[/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5657259266875D041EA818D3151E618779BA14F7&dn=james+bond+007+collection+24+filmes+dublado+5+1+canais+1080p+ComandoFilmes+johnl&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce$$lsname=[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] 007 - COLECAO COMPLETA - DUB[/COLOR]</link>
 
 <thumbnail>http://bit.do/iconesubcat-007</thumbnail>
