@@ -1,21 +1,22 @@
-<item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGFANTASIA [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
-<link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR blue][B]COLEÇÃO OS TRAPALHÕES[/B][/COLOR]</title>
-<link>NO LINK</link>
-<thumbnail>https://i.ibb.co/MVb32WM/esptrapalhoes-icon.png</thumbnail>
-<fanart>https://i.ibb.co/vQdZ9Zb/esptrapalhoes-fan.jpg</fanart>
-<info>OS MAIORES TRAPALHOES DA TV EM GRANDES E ENGRAÇADAS AVENTURAS </info>
-<genre>COMÉDIA</genre>  
-</item>
+<channels>
+<channel>
+<name>[COLOR blue][B]OS TRAPALHÕES - COLEÇÃO[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>ESCOLHA O SERVIDOR  PARA ASSISTIR</info>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS TRAPALHÕES COLEÇÃO - 2001 - 1080 - DUB[/COLOR]</title>
@@ -29,4 +30,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>NACIONAL</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- 
+<channels></channels>
+<channel>
+<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] OS TRAPALHÕES COLEÇÃO - 2001 - 1080 - DUB[/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>Coleção com 25 filmes clássicos dos inesquecíveis Trapalhões – O primeiro filme dos Trapalhões foi realizado em 1965 e contava apenas com a dupla Didi e Dedé. Com a formação clássica (que contava ainda com Mussum e Zacarias) foram realizados vinte e três filmes, entre 1978 e 1990. Mais de cento e vinte milhões de pessoas já assitiram a filmes d´Os Trapalhões, sendo que sete filmes estão na lista dos dez mais vistos na história do cinema brasileiro.</info>
+<genre>NACIONAL</genre>  
