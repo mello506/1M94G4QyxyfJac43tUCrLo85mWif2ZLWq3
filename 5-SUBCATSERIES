@@ -48,6 +48,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/fH01zSX/vikings-fan.jpg</fanart>
 <info>OS GUERREIROS NÓRDICOS EM SUA MAIOR SAGA</info>
+<genre>ÉPICOS</genre>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -58,6 +59,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>UMA VIAGEM EXTRAORDINÁRIA</info>
+<genre>FICÇÃO</genre>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] LA CASA DE PAPEL - COMPLETO  DUB[/COLOR]</name>
+<externallink>https://pastebin.com/raw/irAtTWvF</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDlCaXdC5Z8elYuRto7pPNDb3ho.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIE LA CASA DE PAPEL</info> 
+<genre>CRIME E DRAMA</genre>
+</channel>
+</channels>
