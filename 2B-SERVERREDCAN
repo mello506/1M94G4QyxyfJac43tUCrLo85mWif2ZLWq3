@@ -19,7 +19,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
-<name>[COLOR lime][B] FILMES[/B][/COLOR]</name>
+<name>[COLOR blue][B] FILMES[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/fanartcat-filmes</fanart>
 <externallink>NOLINK</externallink>
