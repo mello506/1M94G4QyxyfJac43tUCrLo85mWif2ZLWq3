@@ -52,7 +52,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
-<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] SAGA CREPÚSCULO COMPLETA - DUB[/COLOR]</name>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] SAGA CREPÚSCULO COMPLETA - DUB[/COLOR]</name>
 <thumbnail>ICONE</thumbnail>
 <fanart>FANART</fanart>
 <info>Todos os filmes da saga Crepúsculo, incluindo o primeiro filme Crepúsculo (2008), Lua Nova (2009), Eclipse (2010), Amanhecer Parte 1 (2011) e o último filme da franquia Amanhecer Parte 2 (2012). Bella (Kristen Stewart) é uma jovem adolescente que se muda para Forks, Washington, para viver com o pai. Assim que ela chega ao local, Bella fica sabendo de uma misteriosa família moradora da cidade. Ela acaba conhecendo um dos cinco irmãos da tal família, Edward (Robert Pattinson), e aos poucos vai descobrindo alguns segredos. O mais importante de todos é que se tratam de vampiros. Bella fica assustada com aquilo, mas decide encarar os riscos e seguir adiante com a paixão que a move pelo rapaz. </info>
@@ -61,16 +61,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] CREPÚSCULO A SAGA - 2011-2008 - 1080 - DUB[/COLOR]</title>
 
+<link>plugin://plugin.video.youtube/play/?video_id=vM7thd27V0o$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CREPUSCULO A SAGA[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] CREPUSCULO PARTE 1 - 2005-2008 - 1080 - DUB[/COLOR]</link>
-
 <link>LINKUNIVERSAL$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] CREPUSCULO PARTE 2 - 2005-2008 - 1080 - DUB[/COLOR]</link>
-
 <link>http://cdnbr.site:2082/movie/Jorge1/Jorge1/212241.mp4$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] LUA NOVA- 2009 - 1080 - DUB[/COLOR]</link>
-
 <link>http://cdnbr.site:2082/movie/Jorge1/Jorge1/212372.mp4$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ECLIPSE - 2010 - 1080 - DUB[/COLOR]</link>
-
 <link>http://cdnbr.site:2082/movie/Jorge1/Jorge1/212238.mp4$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] AMANHECER PARTE 1 - 2011 - 1080 - DUB[/COLOR]</link>
-
 <link>http://cdnbr.site:2082/movie/Jorge1/Jorge1/212239.mp4$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] AMANHECER PARTE 2 - 2012 - 1080 - DUB[/COLOR]</link>
 
 <thumbnail>https://http2.mlstatic.com/saga-crepusculo-pentalogia-twilight-saga-pentalogy-D_NQ_NP_169905-MLB25127374025_102016-F.jpg</thumbnail>
@@ -78,3 +74,4 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Twilight é uma série de histórias de fantasia e romance sobre vampiros escrita por Stephenie Meyer. A saga conta a história de Isabella Swan, uma adolescente que se muda de Phoenix para Forks, em Washington, experimentando um mundo totalmente novo para si ao apaixonar-se por Edward Cullen, um vampiro</info>
 <genre>FANTASIA</genre>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
