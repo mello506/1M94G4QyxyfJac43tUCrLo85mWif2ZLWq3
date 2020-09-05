@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
@@ -8,26 +8,23 @@
 NO EMAIL - luminartstudio4@gmail.com</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<channels>
-<channel>
-<name>[COLOR blue][B] COLEÇÕES DE FILMES DE FICÇÃO[/B][/COLOR]</name>
-<externallink>NO LINK</externallink>
-<thumbnail>http://bit.do/iconesubcat-ficcao</thumbnail>
-<fanart>http://bit.do/fanartsubcat-ficcao</fanart>
-<info>OS MELHORES FILMES DE FICÇÃO E SUAS SEQUÊNCIAS ESTÃO AQUI</info>
-<genre>FICÇÃO</genre>  
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]COLEÇÃO INDENPENDENCE DAY[/B][/COLOR]</name>
+<name>[COLOR blue][B] COLEÇÕES DE FILMES DE FICÇÃO[/B][/COLOR]</name>
+<link>NO LINK</link>
+<thumbnail>http://bit.do/iconesubcat-ficcao</thumbnail>
+<fanart>http://bit.do/fanartsubcat-ficcao</fanart>
+<info>OS MELHORES FILMES DE FICÇÃO E SUAS SEQUÊNCIAS ESTÃO AQUI</info>
+<genre>FICÇÃO</genre>    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] COLEÇÃO INDENPENDENCE DAY[/B][/COLOR]</name>
 <link>NO LINK</link>
 <thumbnail>https://i.ibb.co/QczC8wp/indepdaycol-icon.png</thumbnail>
 <fanart>https://i.ibb.co/dGScw4L/independaycol-fan.jpg</fanart>
-<info>A TERRA EM PERIGO </info>
+<info>PEDIDO DO USUÁRIO FABRICIO</info>
 <genre>FICÇÃO</genre>  
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
@@ -62,6 +59,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>FICÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <channels></channels>
 <channel>
