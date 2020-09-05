@@ -1,36 +1,23 @@
-<channels>
-<channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
+<item>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
+<link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
+</item>
 
-<channels>
-<channel>
-<name>[COLOR blue][B] FILMES DE FICÇÃO[/B][/COLOR]</name>
+<item>
+<title>[COLOR blue][B] FILMES DE FICÇÃO[/B][/COLOR]</title>
 <link>NO LINK</link>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
 <thumbnail>http://bit.do/iconesubcat-ficcao</thumbnail>
 <fanart>http://bit.do/fanartsubcat-ficcao</fanart>
-<info>OS MELHORES FILMES DE FICÇÃO E SUAS SEQUÊNCIAS ESTÃO AQUI</info>
-<genre>FICÇÃO</genre> 
-</channel>
-</channels>
-
-<channels></channels>
-<channel>
-<name>[COLOR lime][B]FILMES DE FICÇÃO[/B][/COLOR] </name>
-<thumbnail>http://bit.do/iconesubcat-ficcao</thumbnail>
-<fanart>http://bit.do/fanartsubcat-ficcao</fanart>
-<info>
-OS MELHORES FILMES DE FICÇÃO ESTÃO AQUI</info>
+<info>OS MELHORES FILMES DE FICÇÃO ESTÃO AQUI</info>
 <genre>FICÇÃO</genre>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
 <item>
 <title>[COLOR lime]LS-> MÁQUINAS MORTAIS - 2018 - 1080 - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg</thumbnail>
