@@ -1,20 +1,65 @@
-<item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
-<link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR blue][B]SEÇÃO PEDIDOS DO USUÁRIO[/B][/COLOR]</title>
+<channels></channels>
+<channel>
+<name>[COLOR blue][B]SEÇÃO PEDIDOS DO USUÁRIO[/B][/COLOR]</name>
 <link>NO LINK</link>
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>AQUI ATENDEMOS OS PEDIDOS DE NOSSOS USUÁRIOS</info>
 <genre>PEDIDOS</genre>  
+</item>
+
+
+<channels></channels>
+<channel>
+<name>[COLOR blue][B]COLEÇÃO INDENPENDENCE DAY[/B][/COLOR]</name>
+<link>NO LINK</link>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A HUMANIDADE UNIDA CONTRA A INVASÃO DO ESPAÇO</info>
+<genre>FICÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1 - 1996 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=qOlVj9tmAHk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YdTQ04Q4Po8oijs3dea4RI11d3v8_u1T/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2c955e4cfd4d56544fcc174d1df94a4b679059a&dn=Independence+Day+%281996%29+BDRip+bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DEDCDD7BB1B2920E5234CDF71CC04422197EA3C8&dn=Independence%20Day%20o%20Ressurgimento%202016%201080p%20Bluray%205.1CH%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce$$lsname=[B]TORRENT1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1 - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer2/ondemand/INDPNDAY.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] INDEPENDENCE DAY 1 - RESOLUCAO - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>Uma aventura épica mostra um fenômeno em todo o mundo: céus em chamas e o terror nas maiores cidades do planeta. Com ataques cada vez mais fulminantes e uma magnitude sem igual, a aniquilação da raça humana pode estar para acontecer no final de semana do feriado de 4 de julho. Um improvável grupo unido pelo destino tenta evitar o nosso fim.</info>
+<genre>FICÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO - 2016 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=ezF9LtGzX2o$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jPdij-AE-_b2R-QWIpt9gGKIm_EiBsZ0/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO - SD- DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485880C4FA34D9D52E247B2A2CD195B60A6170AA&dn=Independence%20Day%20O%20Ressurgimento%202016%20720p%20WEB-DL%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF6A2F397BA8A2DBAE4A702DE99A65709DCECEF8&dn=Independence%20Day%20O%20Ressurgimento%202016%201080p%20WEB-DL%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.istole.it%3a80/announce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/INDPNDAYORSGMNT.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Ja2k65uOXvU$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 2 - RESURGIMENTO - 720 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>Duas décadas depois do devastador ataque alienígena do Dia da Independência, a Terra enfrenta uma nova ameaça que vem diretamente do espaço. Uma nova geração de pilotos é convocada para combater os inimigos e garantir a liberdade da humanidade.</info>
+<genre>FICÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
