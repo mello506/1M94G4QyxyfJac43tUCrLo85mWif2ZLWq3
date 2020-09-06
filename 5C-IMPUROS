@@ -22,6 +22,56 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
+<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS - T01 - 2020 - 720 - DUB[/COLOR]</name>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/ypYBczn/impuros-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/4KKdD1X/impuros-fan.jpg</fanart>
+<info>No Rio de Janeiro dos anos 1990, em um território conflagrado por problemas sociais e onde a oportunidade do crime é muito tentadora, Evandro enfrenta as complexidades do mundo do tráfico e a relação complicada com a própria mãe.</info>
+<genre>CRIME E DRAMA</genre> 
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS- TEMP 01 - 2018 A 2019 - RES - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=hepXtCVdxM4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1vQzONpB_wpQIOKDpR4t_gqZCzLlMGCFb/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1UFVsCGo9G6BH3lzlHNNOD9IqZBuV0Zq4/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/11SERulG_q6ow15_jJaTT39v-1nN_d783/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1VmEf8O1G-WF3h8VJMDDCvY9bcsOtsLZ9/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1-5NNrA18PwCw2s3JWdVc7zppKe1sDrnh/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1h4qWwMRm3bGbutpfbjpsI8Al7uYBjIbm/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1z94THYKhQpbTVW9bD9KAtF6W2wXaR4JP/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1rmoZ0n9ulqKmj8G-C2H1Gyg_iOoZF7Rh/view$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1cE5tBt2XkvmAD39frtjLGKc5ZAetpjew/viewlsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+https://drive.google.com/file/d/1mThZl2cnIAowKN9r1QAahpwKfkm8BC86/view?usp=sharing$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/ypYBczn/impuros-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/4KKdD1X/impuros-fan.jpg</fanart>
+<info>No Rio de Janeiro dos anos 1990, em um território conflagrado por problemas sociais e onde a oportunidade do crime é muito tentadora, Evandro enfrenta as complexidades do mundo do tráfico e a relação complicada com a própria mãe.</info>
+<genre>CRIME E DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels></channels>
+<channel>
 <name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] IMPUROS - 2018 - DUB[/COLOR]</name>
 <externallink>https://pastebin.com/raw/wtpDRpCz</externallink>
 <thumbnail>https://i.ibb.co/ypYBczn/impuros-icon.jpg</thumbnail>
