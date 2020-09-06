@@ -244,7 +244,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
-<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS - COMPLETO  DUB[/COLOR]</name>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] VIKINGS - COMPLETO  DUB[/B][/COLOR]</name>
 <externallink>https://pastebin.com/raw/HYMcR50A</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -253,32 +253,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
-<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] WESTWORLD - COMPLETO  DUB[/COLOR]</name>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] WESTWORLD - COMPLETO  DUB[/B][/COLOR]</name>
 <externallink>https://pastebin.com/raw/mnvnufW1</externallink>
 <thumbnail>https://media.fstatic.com/QM0gsLuYP8PuyLjB6bBjTcJfJyo=/290x478/smart/media/movies/covers/2020/02/9998852.jpeg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Westworld é um parque temático futurístico para adultos, dedicado à diversão dos ricos. Um espaço que reproduz o Velho Oeste, povoado por androides – os anfitriões –, programados pelo diretor executivo do parque, o Dr. Robert Ford (Anthony Hopkins), para acreditarem que são humanos e vivem no mundo real. Lá, os clientes – ou novatos – podem fazer o que quiserem, sem obedecer a regras ou leis. No entanto, quando uma atualização no sistema das máquinas dá errado, os seus comportamentos começam a sugerir uma nova ameaça, à medida que a consciência artificial dá origem à "evolução do pecado". Entre os residentes do parque, está Dolores Abernathy (Evan Rachel Wood), programada para ser a típica garota da fazenda, que está prestes a descobrir que toda a sua existência não passa de bem arquitetada mentir</info>
 <genre>FICÇÃO</genre>   
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<channels>
-<channel>
-<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - COMPLETO - DUB[/B][/COLOR]</name>
-<externallink>LINKRAW</externallink>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>REDE CANAIS SÉRIE NOME</info> 
-</channel>
-</channels>
 
-<channels>
-<channel>
-<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] NOME - COMPLETO - DUB[/B][/COLOR]</name>
-<externallink>LINKRAW</externallink>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>REDE CANAIS SÉRIE NOME</info> 
-</channel>
-</channels>
 
 
 
