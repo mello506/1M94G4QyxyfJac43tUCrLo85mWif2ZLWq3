@@ -178,14 +178,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>SÉRIES</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<channels></channels>
-<channel>
-<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] VIKINGS[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/5Gg9Lpx/vikings-icon.jpg</thumbnail>
-<fanart>https://i.ibb.co/fH01zSX/vikings-fan.jpg</fanart>
-<info>Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. Mas para conseguir conquistá-las ele precisa convencer Earl Haraldson, o líder de seu povo, a permitir que ele e seus guerreiros viagem em direção à Inglaterra.</info>
-<genre>SÉRIES</genre> 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS - TO1 - 2013 - 720 - DUB[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=fXOej9DUHJ4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR]</link>
