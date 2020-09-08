@@ -58,7 +58,7 @@ NO EMAIL - luminartstudio4@gmail.com</info></info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR lime][B]INFORMAÇÕES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/1C-INFOTVs</externallink>
@@ -68,8 +68,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 CANAIS DE TV DE LISTAS IPTV - LINKS INSTÁVEIS SUJEITOS A CAIR - INFORME ERROS 
 NO EMAIL - luminartstudio4@gmail.com</info></info>
 <genre>INFORMAÇÕES</genre>
-</channel>
-</channels>
 
 <item>
 <title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] SUPORTE AO RECURSO DE TVs ON LINE [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
@@ -174,8 +172,16 @@ NO EMAIL - luminartstudio4@gmail.com</info></info>
 <link>ignoreme</link>
 </item>
 <item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] <<<<x>>> [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<title>[COLOR white].[/COLOR]</title>
 <link>ignoreme</link>
+</item>
+<item>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] OBRIGADO PELA ATENÇÂO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SAIBA COMO MELHORAR O DESEMPENHO</info>
+<genre>INFORMAÇÕES</genre>
 </item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
