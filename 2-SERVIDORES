@@ -20,7 +20,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <channels>
 <channel>
-<name>[COLOR lime][B]LEIA AS INFORMAÇÕES E MELHORE O DESEMPENHO[/B][/COLOR]</name>
+<name>[COLOR blue][B] MELHORE O DESEMPENHO DO ADD ON[/B][/COLOR]</name>
+<thumbnail>http://bit.do/entraricon</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AGRADECEMOS SUA VISITA</info>
+</channel>
+</channels>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<channels>
+<channel>
+<name>[COLOR lime][B] CLIQUE AQUI E SAIBA COMO [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/1B-INFORMACOES</externallink>
 <thumbnail>http://bit.do/entraricon</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -28,7 +37,6 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 </channel>
 </channels>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 <channels>
 <channel>
 <name>[COLOR lime][B] SERVER TORRENTS[/B][/COLOR]</name>
