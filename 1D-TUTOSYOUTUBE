@@ -1,12 +1,16 @@
-<item>
-<title>[COLOR blue]CONTATO [COLOR yellow] ->[/COLOR] luminartstudio@gmail.com</title>
-<link>NOLINK</link>
-<thumbnail>http://bit.do/iconentrada</thumbnail>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] ACESSO BLOQUEADO ?[/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>INFORMAÇÕES DE CONTATO</info>
-<genre>CONTATO</genre>
+<info>ENTENDA O PORQUÊ</info>
+<genre>INFORMAÇÕES</genre>
 </item>
-
+<item>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] ENTENDA O PORQUÊ [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
+</item>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <item>
 <title>[COLOR lime]DIFICULDADES DE ACESSO ???  CLIQUE AQUI[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=DTxaXNYuItM</link>
@@ -19,6 +23,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <item>
 <title>[COLOR lime]DIFICULDADES PARA INSTALAR ???   CLIQUE AQUI[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=wVJNjeQDM8o&feature=youtu.be</link>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>INFORMAÇÕES DE CONTATO</info>
+<genre>CONTATO</genre>
+</item>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<item>
+<title>[COLOR blue]CONTATO [COLOR yellow] -> [COLOR white]luminartstudio@gmail.com[/COLOR]</title>
+<link>NOLINK</link>
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>INFORMAÇÕES DE CONTATO</info>
