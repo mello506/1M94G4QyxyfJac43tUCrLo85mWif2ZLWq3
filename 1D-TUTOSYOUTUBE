@@ -14,7 +14,7 @@
 </item>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <item>
-<title>[COLOR lime]DIFICULDADES DE ACESSO ???  CLIQUE AQUI[/COLOR]</title>
+<title>[COLOR lime]DIFICULDADES DE ACESSO ???[COLOR yellow] ->  CLIQUE AQUI[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=DTxaXNYuItM</link>
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -23,7 +23,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 </item>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <item>
-<title>[COLOR lime]DIFICULDADES PARA INSTALAR ???   CLIQUE AQUI[/COLOR]</title>
+<title>[COLOR lime]DIFICULDADES PARA INSTALAR ???[COLOR yellow] ->  CLIQUE AQUI[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=wVJNjeQDM8o&feature=youtu.be</link>
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -32,9 +32,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 </item>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <item>
-<title>[COLOR blue]PORQUE É IMPORTANTE CONTRIBUIR[/COLOR]</title>
+<title>[COLOR lime]PORQUE É IMPORTANTE CONTRIBUIR[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/1B7-INFOCONTRIBUA</externallink>
-<thumbnail>https://i.ibb.co/DMrS562/contribua-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>CONTRIBUA</info>
 <genre>CONTATO</genre>
