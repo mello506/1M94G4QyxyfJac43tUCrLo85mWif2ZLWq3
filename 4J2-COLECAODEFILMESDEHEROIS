@@ -13,11 +13,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR blue][B] FILMES DE NOMEDOTIPO[/B][/COLOR]</name>
-<thumbnail>ICONEDOTIPO</thumbnail>
+<name>[COLOR blue][B] FILMES DE SUPER HERÓIS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/TvQNrTv/sub-cat-superherois.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE NOMEDOTIPO ESTÃO AQUI</info>
-<genre>NOMEDOTIPO</genre> 
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE SUPER HERÓIS ESTÃO AQUI</info>
+<genre>SUPER HERÓIS</genre> 
 </channel>
 </channels>
 
@@ -25,11 +25,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOTIPO[/COLOR]</name>
-<thumbnail>ICONEDOTIPO</thumbnail>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SUPER HERÓIS[/COLOR]</name>
+<thumbnail>https://i.ibb.co/TvQNrTv/sub-cat-superherois.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE NOMEDOTIPO ESTÃO AQUI</info>
-<genre>NOMEDOTIPO</genre>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE SUPER HERÓIS ESTÃO AQUI</info>
+<genre>SUPER HERÓIS</genre>
 
 
 <item>
@@ -59,9 +59,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B] COLETÂNEA DE FILMES DE NOMEDOTIPO[/B][/COLOR] </name>
+<name>[COLOR lime][B] COLETÂNEA DE FILMES DE SUPER HERÓIS[/B][/COLOR] </name>
 <externallink>LINKRAWDAPAGECOLETANEA</externallink>
-<thumbnail>ICONEDOTIPO</thumbnail>
+<thumbnail>https://i.ibb.co/TvQNrTv/sub-cat-superherois.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE NOMEDOTIPO ESTÃO AQUI</info>
-<genre>NOMEDOTIPO</genre>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE SUPER HERÓIS ESTÃO AQUI</info>
+<genre>SUPER HERÓIS</genre>
