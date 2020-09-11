@@ -1,19 +1,67 @@
-<item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
-<link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</item>
+</channel>
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR blue][B] FILMES DE SUPER HERÓIS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/TvQNrTv/sub-cat-superherois.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE SUPER HERÓIS ESTÃO AQUI</info>
+<genre>SUPER HERÓIS</genre> 
+</channel>
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SUPER HERÓIS[/COLOR]</name>
+<thumbnail>https://i.ibb.co/TvQNrTv/sub-cat-superherois.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE SUPER HERÓIS ESTÃO AQUI</info>
+<genre>SUPER HERÓIS</genre>
+
 
 <item>
-<title>[COLOR blue][B] FILMES DE SUPER HERÓIS[/B][/COLOR]</title>
-<link>NO LINK</link>
-<thumbnail>http://bit.do/iconesubcat-ficcao</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE SUPER HERÓIS ESTÃO AQUI</info>
-<genre>SUPER HERÓIS</genre>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME [/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - RES - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080sname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info> SINOPSE</info>
+<genre>GENERO</genre>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] COLETÂNEA DE FILMES DE SUPER HERÓIS[/B][/COLOR] </name>
+<externallink>LINKRAWDAPAGECOLETANEA</externallink>
+<thumbnail>https://i.ibb.co/TvQNrTv/sub-cat-superherois.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE SUPER HERÓIS ESTÃO AQUI</info>
+<genre>SUPER HERÓIS</genre>
