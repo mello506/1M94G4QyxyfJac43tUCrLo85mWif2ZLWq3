@@ -1,23 +1,3 @@
-<channels>
-<channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
-NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
-
-<channels></channels>
-<channel>
-<name>[COLOR blue][B] COLEÇÕES DE FILMES DE FICÇÃO[/B][/COLOR]</name>
-<link>NO LINK</link>
-<thumbnail>http://bit.do/iconesubcat-ficcao</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>AS COLEÇÕES DAS SEQUÊNCIAS DOS MELHORES FILMES DE AVENTURA ESTÃO AQUI</info>
-<genre>FICÇÃO</genre>    
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDENPENDENCE DAY[/COLOR]</name>
