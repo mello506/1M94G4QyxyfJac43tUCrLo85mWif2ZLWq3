@@ -22,54 +22,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - RES - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 1080 - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - RES - DUB[/COLOR]</link>
-
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]</link>
-
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]</link>
-
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
-<info> SINOPSE</info>
-<genre>GENERO</genre>
-</item>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - DUB[/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME[/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - RES - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 720 - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - 1080 - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - RES - DUB[/COLOR]</link>
-
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]</link>
-
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDOFILME - DATA - RES - DUB[/COLOR]</link>
-
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
-<info> SINOPSE</info>
-<genre>GENERO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
 <title>[COLOR lime]LS-> FOGO CONTRA FOGO - 1995 - 1080 - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSkuWgF83aXDyvKxgIHCvcXVurj.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/s5GEd31RA3HYcbVZJsT7MR2d1Hs.jpg</fanart>
