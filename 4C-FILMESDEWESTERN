@@ -1,21 +1,34 @@
-<item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
-<link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR blue][B] FILMES DE WESTERN [/B][/COLOR]</title>
-<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR blue][B] WESTERN[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ch4dDQN/sub-cat-western.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<link>NO LINK</link>
-<info>FILMES COM TEMÁTICA DO VELHO OESTE </info>
-<genre>WESTERN</genre>
-</item>
+<info>OS MELHORES FILMES DE WESTERN</info>
+<genre>WESTERNO</genre>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] FILMES DE WESTERN[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/pvPYC5F/sub-cat-ficao.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES FILMES DE WESTERN ESTÃO AQUI</info>
+<genre>WESTERN</genre> 
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS INDOMÁVEIS - 2007 - DUB[/COLOR]</title>
@@ -506,6 +519,15 @@ https://drive.google.com/file/d/1Ic3e8bmyEaUVqp1ckIT4ncPXFu94WZne/view</link>
 <info>A história de um dos mais perigosos pistoleiros do velho-oeste “Jesse James” e de seu bando. Composta por vários irmãos, a quadrilha James & Younger tornou-se legendária por suas ações ousadas que muitas vezes acabavam em banhos de sangue. Dirigida pelo talentoso Walter Hill, esta produção traz como curiosidade a escolha de atores irmãos que interpretam também irmãos foras-da-lei.</info>
 <genre>WESTERN</genre>
 </item>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] COLETÂNEAS DE FILMES DE WESTERN[/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/4C1-COLECAODEFILMESWESTERN</externallink>
+<thumbnail>https://i.ibb.co/ch4dDQN/sub-cat-western.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE WESTERN ESTÃO AQUI</info>
+<genre>WESTERN</genre>
 
 
 
