@@ -1,28 +1,5 @@
 <channels>
 <channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
-NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[COLOR blue][B] ANIMAÇÃO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/ngGzTdW/sub-cat-animacao.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE ANIMAÇÃO</info>
-<genre>ANIMAÇÃO</genre>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR lime]ESPECIAL SCOOBY DOO[/COLOR]</name>
 <thumbnail>https://uploaddeimagens.com.br/images/002/420/768/full/SCOOB-ESPECIAL.jpg</thumbnail>
 <fanart>https://uploaddeimagens.com.br/images/002/420/769/full/SCOOBYESP2.jpg</fanart>
