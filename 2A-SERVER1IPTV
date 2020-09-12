@@ -10,6 +10,7 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 </item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels></channels>
 <channel>
 <name>[COLOR blue][B]SERVER 1[/B][/COLOR]</name>
@@ -19,16 +20,54 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>TESTES COM SÉRIES NOVO SERVIDOR</info>
 <genre>SÉRIES</genre>
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]SERVER 1- CLIQUE AQUI PARA MAIS SÉRIES[/B][/COLOR]</name>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] COBRA KAI[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/1A1-COBRAKAI</externallink>
 <thumbnail>https://i.ibb.co/Z198HvG/cat-series.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/1A-SERIES</externallink>
-<info>TESTES COM SÉRIES NOVO SERVIDOR</info>
-<genre>SÉRIES</genre>
+<info>SÉRIE COBRA KAI</info>
+<genre>AÇÃO</genre>  
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] EL CHAPO[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/1A2-ELCHAPO</externallink>
+<thumbnail>https://i.ibb.co/Z198HvG/cat-series.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SÉRIE EL CHAPO</info>
+<genre>AÇÃO</genre> 
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GAME OF THRONES[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/1A3-GAMEOFTHRONES</externallink>
+<thumbnail>https://i.ibb.co/Z198HvG/cat-series.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>GAME OF THRONES</info>
+<genre>FANTASIA</genre> 
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] SMALLVILLE[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/1A4-SMALVILLE</externallink>
+<thumbnail>https://i.ibb.co/Z198HvG/cat-series.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SMALLVILLE</info>
+<genre>SUPER HERÓIS</genre> 
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels></channels>
 <channel>
 <name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIKINGS[/COLOR]</name>
