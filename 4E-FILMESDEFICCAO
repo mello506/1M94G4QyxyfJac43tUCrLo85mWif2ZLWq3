@@ -1,3 +1,32 @@
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</channel>
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR blue][B] FICÇÃO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/pvPYC5F/sub-cat-ficao.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES FILMES DE FICÇÃO</info>
+<genre>FICÇÃO</genre>
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] FILMES DE FICÇÃO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/pvPYC5F/sub-cat-ficao.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES FILMES DE FICÇÃO C</info>
+<genre>FICÇÃO</genre>
+
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MÁQUINAS MORTAIS - 2018 - DUB[/COLOR]</title>
 
@@ -112,4 +141,15 @@ https://drive.google.com/file/d/1W4L3j3rl1YMjrNoFUHW3EpnIYiaUG2Hn/view</link>
 <info>Quando uma força sobrenatural causa estragos numa cidade europeia devastada pela guerra, um engenheiro se une a uma equipe de elite para detê-la.</info>
 <genre>FICÇÃO</genre>
 </item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] COLETÂNEAS DE FILMES DE FICÇÃO[/B][/COLOR] </name>
+<externallink>LINKRAWDAPAGECOLETANEA</externallink>
+<thumbnail>https://i.ibb.co/pvPYC5F/sub-cat-ficao.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLETÂNEAS DAS SEQUÊNCIAS DOS MELHORES FILMES DE FICÇÃO ESTÃO AQUI</info>
+<genre>FICÇÃO</genre>
 
