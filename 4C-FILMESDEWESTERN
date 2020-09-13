@@ -56,7 +56,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3711b36b0cf96519c6c7ffff33799f055c60da4c&dn=Meu+Odio+Sera+Sua+Heran%26ccedil%3Ba+%281969%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] MEU ODIO SERA SUA HERANCA - 1972 - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d67982cc23c5844c19baac0e2d63ea5a665034a2&dn=%5bACESSE...HD-ELITE.ME%5d%20Meu.%c3%93dio.Ser%c3%a1.Sua.Heran%c3%a7a.(1969).Dual.1080p.by.jhonatan28&tr=udp%3a%2f%2f9.rarbg.me%3a2790%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] MEU ODIO SERA SUA HERANCA - 1972 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=Nw87Oqp5968$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] MEU ODIO SERA SUA HERANCA - 1972 - SD - DUB[/COLOR]</link>
-<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/MEUODIOSRSUAHRNCA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] MEU ODIO SERA SUA HERANCA - 720 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/MEUODIOSRSUAHRNCA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] MEU ODIO SERA SUA HERANCA - 720 - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] MEU ODIO SERA SUA HERANCA - RES - DUB[/COLOR]</link>
 
 
@@ -117,6 +117,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>WESTERN</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] 100 RIFLES - 1969  - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=lmIeod8jk4k$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 100 RIFLES[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bOrVSXW2zdGPDNW6rDDHMDu6lHJ5Xfxj/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] 100 RIFLES - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] 100 RIFLES - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] 100 RIFLES - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=xYA6gWCrock$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] 100 RIFLES - 720 - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] 100 RIFLES - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] 100 RIFLES - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/G2VZz6h/100riflesicon.jpg</thumbnail>
+<fanart>https://i.ibb.co/102BMbR/100riflesfan.jpg</fanart>
+<info>O xerife Negro (Jim Brown) persegue um contrabandista de armas (Burt Reynolds) que foge com um carregamento de rifles para México na época da revolução. Durante a perseguição acaba conhecendo e se apaixonando pela líder guerrilheira local (Raquel Welch), que está a caça do general das forças armadas do governo que assassinou seu pai. Com esse elenco de qualidade 100 Rifles é considerado como clássico dos filmes de faroeste.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR lime]A VOLTA DOS SETE HOMENS - 1966 - 720 - DUB[/COLOR]</title>
@@ -128,16 +147,6 @@ https://drive.google.com/file/d/1G2z8hmUZ-Q0hQNU0CEDm9xTtrb-iAJm7/view</link>
 <genre>WESTERN</genre>
 </item>
 
-
-<item>
-<title>[COLOR lime]100 RIFLES - 1969 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://i.ibb.co/G2VZz6h/100riflesicon.jpg</thumbnail>
-<fanart>https://i.ibb.co/102BMbR/100riflesfan.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1bOrVSXW2zdGPDNW6rDDHMDu6lHJ5Xfxj/view</link>
-<info>O mestiço Joe rouba um banco no Arizona e, ao ser perseguido por um xerife teimoso, tenta fugir para o México. Preso por um general, ele acaba se unindo ao seu perseguidor e a uma linda índia na luta do povo Yaki contra a opressão do governo.</info>
-<genre>WESTERN</genre>
-</item>
 
 <item>
 <title>[COLOR lime]CANHÕES PARA CÓRDOBA - 1970 - 1080 - DUB[/COLOR]</title>
