@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] AVENTURA[/B][/COLOR]</name>
-<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<thumbnail>https://i.ibb.co/1zmZYgV/sub-cat-aventura.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://pastebin.com/raw/hQnnXKS5</externallink>
 <info>REDE CANAIS AVENTURA</info>
@@ -32,7 +32,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] AÇÃO[/B][/COLOR]</name>
-<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<thumbnail>https://i.ibb.co/0Dz9L0c/sub-cat-acao.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://pastebin.com/raw/RfV4aXjC</externallink>
 <info>REDE CANAIS AÇÃO</info>
@@ -42,7 +42,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] FICÇAO[/B][/COLOR]</name>
-<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<thumbnail>https://i.ibb.co/pvPYC5F/sub-cat-ficao.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://pastebin.com/raw/rJf9EVkC</externallink>
 <info>REDE CANAIS FICÇAO</info>
@@ -52,13 +52,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] ANIMAÇÃO[/B][/COLOR]</name>
-<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<thumbnail>https://i.ibb.co/ngGzTdW/sub-cat-animacao.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://pastebin.com/raw/jYTDBwvS</externallink>
 <info>REDE CANAIS ANIMAÇÃO</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels>
+<channel>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] WESTERN[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ch4dDQN/sub-cat-western.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://pastebin.com/raw/jYTDBwvS</externallink>
+<info>REDE CANAIS WESTERN</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 <channels>
 <channel>
 <name>[COLOR blue][B] SÉRIES[/B][/COLOR]</name>
