@@ -1,22 +1,37 @@
-<item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
-<link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR blue][B]FILMES DE AVENTURA[/B][/COLOR]</title>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR blue][B]FILMES DE AVENTURA[/B][/COLOR]</name>
+<link>NO LINK</link>
 <thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<link>NO LINK</link>
 <info>OS MAIORES DE FILMES DE AVENTURAS ESTÃO AQUI</info>
-<genre>AVENTURA</genre>   
-</item>
+<genre>AVENTURA</genre>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B]FILMES DE AVENTURA[/B][/COLOR]</name>
+<link>NO LINK</link>
+<thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MAIORES DE FILMES DE AVENTURAS ESTÃO AQUI</info>
+<genre>AVENTURA</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PATRIOTA - 2000 [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=P5u1am7pmrw$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PATRIOTA[/COLOR]</link>
