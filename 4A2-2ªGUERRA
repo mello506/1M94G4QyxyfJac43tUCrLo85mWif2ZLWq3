@@ -151,7 +151,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.youtube/play/?video_id=mI3-a5Puk9Q$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CONQUISTA DA HONRA[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1J63VFJ0CI7rifxyVuLAYNhwBptcns8dn/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CONQUISTA DA HONRA - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CONQUISTA DA HONRA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] A CONQUISTA DA HONRA - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ECD991D38D708C69EB7BF45D29FE3E107BDE857&dn=a+conquista+da+honra+2006+brrip+blu+ray+1080p+dual+%C3%81udio+andretpf&tr=http%3A%2F%2Fpow7.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CONQUISTA DA HONRA - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=i0oawMyfFXM$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A CONQUISTA DA HONRA - 720 - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] A CONQUISTA DA HONRA - RES - DUB[/COLOR]</link>
