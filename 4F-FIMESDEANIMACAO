@@ -34,11 +34,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime]  A NOIVA CADÁVER - 2005 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=ZE5CbXVheJk&list=PL9eQ9KTAJwMosV64ooiqFC-ApTPMt1vmy$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime]  A NOIVA CADAVER[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime]  A NOIVA CADAVER - RES - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime]  A NOIVA CADAVER - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red]  A NOIVA CADAVER - RES - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red]  A NOIVA CADAVER - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d2448ef3d10a2f536cefac6cb7bcc199ef86453&dn=A+Noiva+Cadaver+%282005%29+Bluray+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime]  A NOIVA CADAVER - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=cUZIjvQzIQ4$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime]  A NOIVA CADAVER - SD - DUB[/COLOR]</link>
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime]  A NOIVA CADAVER - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red]  A NOIVA CADAVER - RES - DUB[/COLOR]</link>
 <link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/81402.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime]  A NOIVA CADAVER - 720 - DUB[/COLOR]</link>
 
 <thumbnail>ICONE</thumbnail>
