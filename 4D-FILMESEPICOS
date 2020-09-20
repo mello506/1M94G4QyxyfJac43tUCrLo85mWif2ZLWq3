@@ -41,7 +41,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=EGZiR3eSE10$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORACAO VALENTE - 1995 - 720 - DUB[/COLOR]</link>
 <link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/CRCAOVLNTE.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORACAO VALENTEE - 1080 - DUB[/COLOR]</link>
 
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CORACAO VALENTE - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] CORACAO VALENTE - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/9wWXzRX/cora-ovalente-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/8dKL1TF/cora-ovalente-fan.jpg</fanart>
@@ -57,10 +57,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B7A97FA7111A0FBC27D1E5E96A06DEFF5CB75037&dn=cruzada+2005+720p+bluray+5+1+x264+dual+bludv&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 2005 - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00f2710da3227ed0f10298423a0fd0323caf0e6e$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 2005 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=Lc-7QXXnutY&t=4s$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 2005 - SD - DUB[/COLOR]</link>
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] CRUZADA - RES - DUB[/COLOR]</link>
 
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - RES - DUB[/COLOR]</link>
-
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] CRUZADA - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/e/e9/The_Last_of_the_Mohicans_%281992%29.jpg/250px-The_Last_of_the_Mohicans_%281992%29.jpg</thumbnail>
 <fanart>https://cdn3.greatfon.com/crop/uploads/picture/678/27678/posledniy-iz-mogikan-poedinok.jpg</fanart>
@@ -68,7 +67,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ÉPICO</genre> 
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ÚLTIMO DOS MOICANOS - 1992 - DUB[/COLOR]</title>
@@ -78,8 +76,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VXQERY2B47GEBFZGHAFERZB422HGHBJV&dn=O+%C3%9Altimo+dos+Moicanos+%281992%29+BRrip+Blu-Ray+720p+Dublado+-+DAT2015&tr=udp://tracker.openbittorrent.com:80/announce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO DOS MOICANOS - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFRUJZQBMBQXZFA5LZQCEKSEPXZ6WKKC&dn=O+%C3%9Altimo+dos+Moicanos+%281992%29+BRrip+Blu-Ray+1080p+-+DAT2015&tr=udp://tracker.openbittorrent.com:80/announce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO DOS MOICANOS - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] O ULTIMO DOS MOICANOS - RES - DUB[/COLOR]</link>
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO DOS MOICANOS - RES - DUB[/COLOR]</link>
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO DOS MOICANOS - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] O ULTIMO DOS MOICANOS - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] O ULTIMO DOS MOICANOS - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/RSfs8fv/ultimomoicanos-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/R0Ydrjm/ultimomoicanos-fan.jpg</fanart>
