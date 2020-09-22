@@ -25,6 +25,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] LANÇAMENTOS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/1zmZYgV/sub-cat-aventura.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<externallink>https://pastebin.com/raw/A0uY4ZBW</externallink>
+<info>REDE CANAIS AVENTURA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[B]FILMES[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] AVENTURA[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/1zmZYgV/sub-cat-aventura.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
