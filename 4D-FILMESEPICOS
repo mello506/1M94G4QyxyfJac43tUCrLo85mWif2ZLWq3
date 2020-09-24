@@ -8,7 +8,6 @@
 NO EMAIL - luminartstudio4@gmail.com</info>
 </channel>
 </channels>
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
@@ -18,7 +17,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES ÉPICOS</info>
 <genre>ÉPICOS</genre>
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
@@ -28,7 +26,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES ÉPICOS ESTÃO AQUI</info>
 <genre>ÉPICOS</genre>
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
@@ -49,6 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ÉPICO</genre> 
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 2005 - DUB[/COLOR]</title>
 
@@ -58,7 +56,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00f2710da3227ed0f10298423a0fd0323caf0e6e$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 2005 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=Lc-7QXXnutY&t=4s$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CRUZADA - 2005 - SD - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] CRUZADA - RES - DUB[/COLOR]</link>
-
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] CRUZADA - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/VWFVMyQ/cruzada-icon.jpg</thumbnail>
@@ -84,8 +81,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>No século 18, em meio à guerra entre franceses e ingleses no continente norte-americano, um homem branco criado pelos índios tenta defender a sua tribo dos ataques.</info>
 <genre>GENERO</genre>  
 </item>
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] GLADIADOR - 2000 - DUB[/COLOR]</title>
 
@@ -102,33 +99,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Commodus toma o poder e se livra de Maximus, um dos generais favoritos de seu predecessor e pai, o grande filósofo, rei e imperador Marcus Aurelius. O bravo guerreiro é forçado a se tornar gladiador nas arenas e precisa lutar pela vida.</info>
 <genre>ÉPICO</genre>  
 </item>
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR red]O MANTO SAGRADO- 1953 - 1080 - DUB[/COLOR]</title>
-<thumbnail>http://eovideolevou.com.br/imgProduto/37159_f1.jpg</thumbnail>
-<fanart>https://i.imgur.com/MGLkxbR.png</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1muXHR10y34DLPlMAx7kCkIKgKGV1rCNx/view</link>
-<info> Marcellus Gallio é um bêbado e desiludido romano que ganha o manto de Jesus em um jogo de sorte depois da crucificação.
-Ele nunca foi um homem de fé como seu escravo Demetrius. Porém, quando Demetrius foge com o manto, Marcellus começa a ter visões
-perturbadoras, sentindo-se culpado por suas ações. Certo de que se destruir o manto ele será curado, Marcellus sai à procura de 
-Demetrius.</info>
-<genre>ÉPICO</genre> 
-</item>
-<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] DEMÉTRIUS E OS GLADIADORES - 1954 - DUB[/COLOR]</title>
 
-<item>
-<title>[COLOR lime]LS-> DEMÉTRIUS E OS GLADIADORES - 1954 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://media.fstatic.com/B4ukCobXSCsNMIbjFP1q_ZWtHfs=/fit-in/290x478/smart/media/movies/covers/2012/04/46b37fa582421db057fe24745d232345.jpg</thumbnail>
-<fanart>https://www.cinemarden.com.br/wp-content/uploads/2016/07/306.Demetrius-e-os-Gladiadores.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1d5DQTmrhbvZJSky_0xNK8VcPC1_Ffstp/view</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Vm2SbLDnuJ4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] DEMETRIUS E OS GLADIADORES[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1d5DQTmrhbvZJSky_0xNK8VcPC1_Ffstp/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] DEMETRIUS E OS GLADIADORES - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] DEMETRIUS E OS GLADIADORES - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] DEMETRIUS E OS GLADIADORES - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] DEMETRIUS E OS GLADIADORES - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] DEMETRIUS E OS GLADIADORES - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] DEMETRIUS E OS GLADIADORES - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/pjkZj7t/demetrius-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/Xp03Wj9/demetrius-fan.jpg</fanart>
 <info>Um escravo de força extraordinária é encarregado de proteger o manto que Cristo usou na cruz. Depois de ser capturado por Calígula, sua fé é testada quando ele é forçado a competições mortais na arena.</info>
-<genre>ÉPICO</genre> 
+<genre>ÉPICOS</genre>  
 </item>
-<item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <item>
 <title>[COLOR lime]LS-> O ÚLTIMO SAMURAI - 2004 - 720 - DUB[/COLOR]</title>
