@@ -33,17 +33,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 2006 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=WkG34G6a59M$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300[/COLOR]</link>
-
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10w8Xu7kfg6SPTn4HmysO-GBk-mkZYTl6/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 720 - DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:641A4DF9E982E7383284D69A920FE935291E9C2B&dn=300+2006+720p+bluray+5+1+x264+dual+bludv$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 720 - DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FA53657CB434E17C18394A9E3C1CAB75BBA1E53&dn=300+2006+1080p+bluray+5+1+x264+dual+bludv$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 1080 - DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] 300 - RES - DUB[/COLOR]</link>
-
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] 300 - RES - DUB[/COLOR]</link>
-
+<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/300.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] 300 - 1080 - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] 300 - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/7tPxsjt/300-icon.jpg</thumbnail>
@@ -52,7 +46,6 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <genre>ÉPICOS</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <item>
 <title>[COLOR lime]300 - 2007 - 720 - DUB[/COLOR]</title>
