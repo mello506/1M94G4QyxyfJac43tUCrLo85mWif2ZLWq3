@@ -37,7 +37,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:641A4DF9E982E7383284D69A920FE935291E9C2B&dn=300+2006+720p+bluray+5+1+x264+dual+bludv$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FA53657CB434E17C18394A9E3C1CAB75BBA1E53&dn=300+2006+1080p+bluray+5+1+x264+dual+bludv$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] 300 - RES - DUB[/COLOR]</link>
-<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/300.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] 300 - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/300.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 1080 - DUB[/COLOR]</link>
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] 300 - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/7tPxsjt/300-icon.jpg</thumbnail>
@@ -48,28 +48,23 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]300 - 2007 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTPggyTJ5R76g6j9XXQUBZ5nRC2.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/oWHMkAjD2eVIOxwyPRw1JrPcnlz.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1-wmWvWnVdzAsUkxPABOAQdSxmPdsrxt9/view</link>
-<info>
-Grécia, 480 AC. Na Batalha de Termópilas, o rei Leônidas e seus 300 guerreiros de Esparta lutam bravamente contra o numeroso exército do rei Xerxes . Após três dias de muita luta, todos os espartanos são mortos. O sacrifício e a dedicação destes homens uniu a Grécia no combate contra o inimigo persa.</info>
-<genre>ÉPICOS</genre>
-</item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - A ASCENÇÃO DO IMPÉRIO - 2014 - DUB[/COLOR]</title>
 
-<item>
-<title>[COLOR lime]300 - 2 - A ASCENSÃO DO IMPÉRIO - 2014 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ejuMEvTU4MKQyt8TK8QbAwerbV.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/6ysgr9EefF5kTjr9MH4y0XsPHmg.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1Gril0CpYTMqDskjzklW_V91FlKRuRm0N/view</link>
-<info>
-Após a morte do pai, Xerxes dá início a uma jornada de vingança e ruma em direção à Grécia, com seu exército sendo liderado
-por Artemisia. Enquanto os 300 espartanos liderados por Leonidas tantam combater o Deus-Rei, os exércitos do 
-resto da Grécia se unem para uma batalha com as tropas de Artemisia no mar. Themistocles é o responsável por liderar os gregos.</info>
-<genre>ÉPICOS</genre>
+<link>plugin://plugin.video.youtube/play/?video_id=s81qj2AQxpI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - A ASCENCAO DO IMPERIO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ce2Kd1c_CArqYFSVuK2-jO1dQeYMv2IH/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - A ASCENCAO DO IMPERIO - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF9071F586BFC7FCAC86A1F04AD63CA6D6C96979&dn=300+a+ascens%C3%A3o+do+imp%C3%A9rio+2014+720p+bluray+5+1+x264+dual+bludv$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - A ASCENCAO DO IMPERIO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0C04D40732F70F8A48259D12D36E233D91008BD2&dn=300+a+ascens%C3%A3o+do+imp%C3%A9rio+2014+1080p+bluray+5+1+x264+dual+bludv$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - A ASCENCAO DO IMPERIO - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Lq7N5v48B84$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - A ASCENCAO DO IMPERIO - 720 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/300AASCSDIMPRO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - A ASCENCAO DO IMPERIO - 1080 - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - A ASCENCAO DO IMPERIO - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/5n7x6tc/300asc-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/h1LHt3h/300asc-fan.jpg</fanart>
+<info>Após a morte do pai, Xerxes dá início a uma jornada de vingança e ruma em direção à Grécia, com seu exército liderado por Artemisia. Enquanto os 300 espartanos liderados por Leonidas tantam combater o Deus-Rei, os exércitos do resto da Grécia se unem para uma batalha com as tropas de Artemisia no mar. Themistocles é o responsável por liderar os gregos.</info>
+<genre>ÉPICOS</genre>  
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <item>
 <title>[COLOR lime]OS 300 DE ESPARTA - 1962 - 1080 - DUB[/COLOR]</title>
