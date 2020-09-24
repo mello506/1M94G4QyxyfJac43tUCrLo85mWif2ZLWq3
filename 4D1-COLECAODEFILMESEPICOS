@@ -130,19 +130,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <item>
-<title>[COLOR lime]FÚRIA DE TITÂS - 1981 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjQLwa6RkBKkmKS58WKZvN2M8aB.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/szl4xPiHnEp4FmMbvwZn2YelJ1c.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1_rnfQALtBuQXEI6cLP7rVT1YYlhWK_tm/view</link>
-<info>
-Deuses no Olimpo, terríveis monstros mitológicos e heróis mortais fazem deste espetáculo de imaginação uma aventura imperdível.
-Perseu, o filho mortal de Zeus, que luta para salvar a vida da princesa Andrômeda do monstro marinho Kraken. Para tal,
-ele precisa de uma arma tão letal quanto difícil de conseguir: a cabeça de Medusa! Acompanhado de um grupo de corajosos
-guerreiros e montado no fabuloso Pegasus, o cavalo alado, Perseu parte em uma aventura sem precedentes pelas terras fantásticas 
-da mitologia grega.</info>
-<genre>ÉPICOS</genre>
-</item
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] FÚRIA DE TITÂS - 1981 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=ojw1sau9$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS - 1981[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fopvufhbBU3gGcLvBJacABjnSgSkO5H6/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS - 1981 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95C582A90E72283F45DF5046309D5BB47CFE3643&dn=F%c3%baria%20de%20Tit%c3%a3s%201981%20%5bBluRay%5d%20%28720p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS - 1981 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C11D6497E6C7DD288775EF06EDE7424DD724A1F0&dn=F%c3%baria%20de%20Tit%c3%a3s%201981%20%5bBluRay%5d%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS - 1981 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FURIA DE TITAS - 1981 - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] FURIA DE TITAS - 1981 - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] FURIA DE TITAS - 1981 - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/DzjpGcZ/furidetitas1981-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/KG7dYV6/furidetitas1981-fan.jpg</fanart>
+<info>Perseus, filho do deus grego Zeus, cresce em uma ilha deserta. Seu destino é se casar com a Princesa Andrômeda, que irá algum dia governar a cidade de Joppa. Porém enquanto o sátiro Calibos, o qual usa um gigante abutre para sequestrar a alma de Andrômeda todas as noites, está vivo, ninguém pode se casar com ela. Perseus viaja para Joppa, onde ele deve desafiar Calibos e outros monstros mitológicos para salvar Andrômeda.</info>
+<genre>ÉPICOS</genre>   
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
