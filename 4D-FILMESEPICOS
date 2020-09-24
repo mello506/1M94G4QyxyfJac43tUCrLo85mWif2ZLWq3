@@ -119,17 +119,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ÚLTIMO SAMURAI - 2003 - DUB[/COLOR]</title>
 
-<item>
-<title>[COLOR lime]LS-> O ÚLTIMO SAMURAI - 2004 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/sLv5pXysIz7QbtKFJy85d5yxv2W.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/lm15lu2jt3I3Syxsb90UJzUzMRV.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/12rFjMOZglEygtQwDpLYjCHcYTaaGY61A/view</link>
+<link>plugin://plugin.video.youtube/play/?video_id=7pocyXjD_D4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO SAMURAI[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12rFjMOZglEygtQwDpLYjCHcYTaaGY61A/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO SAMURAI - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86AB022B45D15E91D1949C1A342F52EDA3ED43FF&dn=O%20%c3%9altimo%20Samurai%202004%20%28720p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO SAMURAI - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93FAECB451E1067EA523B2BA2348DB98AA54613C&dn=O%20%c3%9altimo%20Samurai%202004%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO SAMURAI - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] O ULTIMO SAMURAI - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/OULTMSMRAI.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O ULTIMO SAMURAI - 720 - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] O ULTIMO SAMURAI - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/Kr5rgmp/ultimosamurai-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/89XGP5k/ultimosamurai-fan.jpg</fanart>
 <info>O soldado Nathan Algren deixa os Estados Unidos rumo ao Japão feudal. Na tentativa de derrotar um comandante, é capturado. Algren sabe o destino de prisioneiros inimigos, mas fica surpreso ao ser poupado e se sente atraído pelo estilo de vida dos Samurai, entre outras coisas.</info>
-<genre>ÉPICO</genre> 
+<genre>ÉPICOS</genre>  
 </item>
-<item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <item>
 <title>[COLOR lime]LS-> DANÇA COM LOBOS - 1990 - 720 - DUB[/COLOR]</title>
