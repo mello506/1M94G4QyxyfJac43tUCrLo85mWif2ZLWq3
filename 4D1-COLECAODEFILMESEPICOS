@@ -1,11 +1,58 @@
 <channels></channels>
 <channel>
-<name>[COLOR lime]300[/COLOR]</name>
-<thumbnail>THUMBNAIL</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/5Rqhw4e5pRsfWaQBgUlvpWyn1w4.jpg</fanart>
-<info>
-COLEÇÃO 300 COMPLETA</info>
-<genre>ÉPICOS</genre>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<link>NO LINK</link>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+</item>
+
+
+<channels></channels>
+<channel>
+<name>[COLOR blue][B]COLEÇÕES DE FILMES ÉPICOS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/0c1J23W/sub-cat-picos.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AS COLETÃNEAS DAS SEQUÊNCIAS DE FILMES ÉPICOS</info>
+<genre>ÉPICOS</genre>  
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 300[/B][/COLOR]</name>
+<link>NO LINK</link>
+<thumbnail>https://i.ibb.co/6rrdVqt/300-pastaicon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SINOPSE</info>
+<genre>ÉPICOS</genre 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 2006 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=WkG34G6a59M$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10w8Xu7kfg6SPTn4HmysO-GBk-mkZYTl6/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:641A4DF9E982E7383284D69A920FE935291E9C2B&dn=300+2006+720p+bluray+5+1+x264+dual+bludv$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FA53657CB434E17C18394A9E3C1CAB75BBA1E53&dn=300+2006+1080p+bluray+5+1+x264+dual+bludv$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] 300 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] 300 - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] 300 - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] 300 - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/7tPxsjt/300-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/232GV1t/300-fan.jpg</fanart>
+<info>Em 480 A.C., existe uma guerra entre a Pérsia, liderada pelo rei Xerxes, e a Grécia. Na batalha de Thermopylae, Leônidas, rei da cidade grega de Sparta, lidera seu guerreiros em desvantagem contra o massivo exército persa. Mesmo sabendo que a morte certa os espera, seus sacrifícios inspiram toda a Grécia a unir-se contra o seu inimigo comum.</info>
+<genre>ÉPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <item>
 <title>[COLOR lime]300 - 2007 - 720 - DUB[/COLOR]</title>
