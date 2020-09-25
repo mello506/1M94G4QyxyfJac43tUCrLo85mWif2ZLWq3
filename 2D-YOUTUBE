@@ -42,13 +42,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GUERRA - COLEÇÃO - DUB[/COLOR]</title>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GUERRA - COLEÇÃO 1 - DUB[/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yB0t2jhlr-a2x8vuYnXXuRv/?page=0</jsonrpc>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] GUERRA - COLEÇÃO 2 - DUB[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL4NNHEtQlBht3_2Caukz1bbXZhe-WRUG0/?page=0</jsonrpc>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 <item>
 <title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVENTURA - COLEÇÃO - DUB[/COLOR]</title>
 <link>ignoreme</link>
