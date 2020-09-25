@@ -135,6 +135,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CANHÕES PARA CÓRDOBA - 1970 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=G5Z0d-NCc-M$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CANHOES PARA CORDOBA[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DUtlzK_LbEcFOyThQGvQpjepoqmTw4EP/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CANHOES PARA CORDOBA - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] CANHOES PARA CORDOBA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] CANHOES PARA CORDOBA - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=TzOYEExqd54$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CANHOES PARA CORDOBA - SD - LEG[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] CANHOES PARA CORDOBA - RES - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] CANHOES PARA CORDOBA - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/p3hJ0PD/canhoescordobaicon.jpg</thumbnail>
+<fanart>https://i.ibb.co/fpPGFTQ/canhoescordobafan.jpg</fanart>
+<info>Um capitão do exército americano na fronteira do Texas em 1912 lidera suas tropas contra um bandido mexicano.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
@@ -147,16 +165,6 @@ https://drive.google.com/file/d/1G2z8hmUZ-Q0hQNU0CEDm9xTtrb-iAJm7/view</link>
 <genre>WESTERN</genre>
 </item>
 
-
-<item>
-<title>[COLOR lime]CANHÕES PARA CÓRDOBA - 1970 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://i.ibb.co/p3hJ0PD/canhoescordobaicon.jpg</thumbnail>
-<fanart>https://i.ibb.co/fpPGFTQ/canhoescordobafan.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1DUtlzK_LbEcFOyThQGvQpjepoqmTw4EP/view</link>
-<info>Um capitão do exército americano na fronteira do Texas em 1912 lidera suas tropas contra um bandido mexicano.</info>
-<genre>WESTERN</genre>
-</item>
 
 <item>
 <title>[COLOR lime]O CAVALEIRO SOLITÁRIO - 1985 - 720 - DUB[/COLOR]</title>
