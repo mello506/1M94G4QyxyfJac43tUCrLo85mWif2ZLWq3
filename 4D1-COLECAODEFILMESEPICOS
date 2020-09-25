@@ -1,26 +1,5 @@
 <channels></channels>
 <channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<link>NO LINK</link>
-<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
-NO EMAIL - luminartstudio4@gmail.com</info>
-</item>
-
-
-<channels></channels>
-<channel>
-<name>[COLOR blue][B]COLEÇÕES DE FILMES ÉPICOS[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/0c1J23W/sub-cat-picos.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>AS COLETÃNEAS DAS SEQUÊNCIAS DE FILMES ÉPICOS</info>
-<genre>ÉPICOS</genre>  
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
 <name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] 300[/B][/COLOR]</name>
 <link>NO LINK</link>
 <thumbnail>https://i.ibb.co/6rrdVqt/300-pastaicon.png</thumbnail>
