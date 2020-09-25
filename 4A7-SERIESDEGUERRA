@@ -1,3 +1,12 @@
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] O NAUFRÁGIO DO LACÔNIA [/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<link>NO LINK</link>
+<info>AS MELHORES SÉRIES COM A TEMÁTICA DE GUERRA </info>
+<genre>GUERRA</genre>
+
 <item>
 <title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O NAUFRÁGIO DO LACÔNIA[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=VkfhmF3vfak$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O NAUFRAGIO DO LACONIA[/COLOR]</link>
@@ -17,14 +26,16 @@ $$lsname=[COLOR lime]O NAUFRAGIO DO LACONIA <-> PARTE II [/COLOR]</link>
 <genre>GUERRA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] BAND OF BROTHERS [/COLOR]</title>
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] BAND OF BROTHERS [/COLOR]</name>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
 <fanart>http://bit.do/fanartsubcat-guerra</fanart>
 <link>NO LINK</link>
 <info>AS MELHORES SÉRIES COM A TEMÁTICA DE GUERRA </info>
 <genre>GUERRA</genre>
-</item>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] BAND OF BROTHERS - 2001 - 1080 - DUB[/COLOR]</title>
@@ -91,15 +102,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>GUERRA</genre>   
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE PACIFIC[/COLOR]</title>
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE PACIFIC [/COLOR]</name>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
 <fanart>http://bit.do/fanartsubcat-guerra</fanart>
 <link>NO LINK</link>
 <info>AS MELHORES SÉRIES COM A TEMÁTICA DE GUERRA </info>
 <genre>GUERRA</genre>
-</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE PACIFIC A SÉRIE - 2010 - 720 - DUB[/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=4-Usq7h-9GE$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE PACIFIC A SERIE[/COLOR]</link>
@@ -150,6 +163,7 @@ $$lsname=[COLOR lime]EP10 <-> HOME [/COLOR] </link>
 <genre>GUERRA </genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE PACIFIC A SÉRIE - 2010 - DUB[/COLOR]</title>
 
