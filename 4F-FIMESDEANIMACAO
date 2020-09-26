@@ -30,7 +30,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIDA DE INSETO - 1998 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=znXehHytQcM$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIDA DE INSETO[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17XxwB3yGuAhviM1StparmQlgrltmQttN/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIDA DE INSETO - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17XxwB3yGuAhviM1StparmQlgrltmQttN/view?$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIDA DE INSETO - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F1619D92647D3AAD4B2EC1FA8DB61DDEF4EEA13F&dn=Vida%20de%20Inseto%20720p%20-%20The%20Pirate%20Filmes&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIDA DE INSETO - 720 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44C5F6C9C30777B1338A5BDFB5ED019B9E2744D4&dn=Vida%20de%20Inseto%20%281998%29%20BluRay%201080p%20Dublado$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIDA DE INSETO - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=gfl-Ri5ifsI$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIDA DE INSETO - 720 - DUB[/COLOR]</link>
@@ -38,14 +38,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] VIDA DE INSETO - RES - DUB[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
-<info>Todo ano, os gananciosos gafanhotos exigem uma parte da colheita das formigas. Mas quando algo dá errado e a colheita destruída, os gafanhotos ameaçam atacar e as formigas são forçadas a pedir ajuda a outros insetos para enfrentá-los numa batalha.</info>
+<thumbnail>https://i.ibb.co/6yDCH1z/vidainseto-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/L9f7BCf/vidainseto-fan.jpg</fanart>
+<info>Flik é uma formiga cheia de ideias e sempre causa problemas na sua colônia. Seu último acidente foi destruir os alimentos que seriam usados para pagamento ao gafanhoto Hopper. Agora, Hopper está exigindo o dobro, senão a colônia será aniquilada. Para evitar o desastre, Flik tenta recrutar combatentes para defender o local, e quando encontra um bando de insetos voadores, ele acredita que encontrou a sua salvação.</info>
 <genre>ANIMAÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
 
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime]  A NOIVA CADÁVER - 2005 - DUB[/COLOR]</title>
