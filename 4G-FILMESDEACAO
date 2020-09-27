@@ -24,17 +24,26 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES FILMES DE FILMES DE AÇÃO ESTÃO AQUI</info>
 <genre>AÇÃO</genre> 
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
-<title>[COLOR lime]LS-> CHAMAS DA VINGANÇA - 2004 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDVlK8XtDTnse1m4y8y3JKw3TLH.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2cBmeSLCyLqkn6YIERKdRUToqsa.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1Jny6eIkNaKPIMBWWiNP0qJSz5ZdlDmGS/view</link>
-<info>Uma grande onda de sequestros varre o México, fazendo com que muitos de seus cidadãos mais ricos contratem guarda-costas para seus filhos. John Creasy é um desmotivado ex-agente da CIA, que é levado à Cidade do México por seu amigo Rayburn. Sem emprego, ele aceita a proposta de ser guarda-costas da pequena Pita, uma garota de 9 anos que é filha de um industrial. Incomodado com as perguntas constantes da garota, John inicialmente vê seu novo trabalho como um fardo mas, aos poucos, cria amizade com Pita e passa a ter um novo ânimo em sua vida. O sequestro de Pita desfaz esta situação, fazendo com que ele, mesmo ferido, parta para resgatá-la a qualquer custo.</info>
-<genre>AÇÃO</genre>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANÇA - 2004 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=eDDh50B6kA4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Jny6eIkNaKPIMBWWiNP0qJSz5ZdlDmGS/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9E559E638799CB7B91198BC82EF31C95F0F41D5C&dn=Chamas%20da%20Vingan%c3%a7a%20720p%20%282004%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2790%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DFA259958252FF912E17600D5F58006270DC8ED&dn=Chamas%20da%20Vingan%c3%a7a%201080p%20%282004%29%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2790%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=cIJBWS6zC2w$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA - 720 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/CHMSDVNGC2004.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CHAMAS DA VINGANCA - 2004 - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] CHAMAS DA VINGANCA - 2004 - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/fCDC9Qq/chamasvinganca-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/nmcqdnH/chamasvinganca-fan.jpg</fanart>
+<info>Uma grande onda de sequestros varre o México, fazendo com que muitos de seus cidadãos mais ricos contratem guarda-costas para seus filhos. John Creasy (Denzel Washington) é um desmotivado ex-agente da CIA, que é levado à Cidade do México por seu amigo Rayburn (Christopher Walken). Sem emprego, ele aceita a proposta de ser guarda-costas da pequena Pita (Dakota Fanning), uma garota de 9 anos que é filha de um industrial (Marc Anthony). Incomodado com as perguntas constantes da garota, John inicialmente vê seu novo trabalho como um fardo mas, aos poucos, cria amizade com Pita e passa a ter um novo ânimo em sua vida. O sequestro de Pita desfaz esta situação, fazendo com que ele, mesmo ferido, parta para resgatá-la a qualquer custo.</info>
+<genre>AÇÃO</genre>  
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR lime]ESTRADA PARA PERDIÇÃO - 2002 - 720 - DUB[/COLOR]</title>
