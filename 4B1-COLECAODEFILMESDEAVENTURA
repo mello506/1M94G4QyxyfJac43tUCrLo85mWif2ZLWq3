@@ -68,7 +68,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=FyAZ6gLzfp0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] NO FIM DO MUNDO[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lhxy4LWcExA0wd_zos1v5203LD0lb00F/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] NO FIM DO MUNDO - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78369b8167a2d2b963396a011285db3b2528598f&dn=Piratas+do+Caribe-3-No+Fim+Do+Mundo-720p-HD-Dublado.210GJI&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] NO FIM DO MUNDO - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080sname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] NO FIM DO MUNDO - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] NO FIM DO MUNDO - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] NO FIM DO MUNDO - RES - DUB[/COLOR]</link>
 <link>https://proxy.ec.cx/video.php?url=RCFServer1/ondemand/PRTSDCRB03.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] NO FIM DO MUNDO - 1080 - DUB[/COLOR]</link>
 
