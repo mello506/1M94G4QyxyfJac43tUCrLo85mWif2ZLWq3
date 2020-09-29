@@ -119,13 +119,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <channels></channels>
 <channel>
 <name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] INDIANA JONES[/B][/COLOR]</name>
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://i.ibb.co/vPPdBXc/indianai-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>AS PERIPÉCIAS DO PIRATA MAIS CARISMÁTICO DOS SETE MARES</info>
+<info>AS PERIPÉCIAS DO ARQUEÓLOGO AVENTUREIRO</info>
 <genre>AVENTURA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -161,14 +160,24 @@ https://drive.google.com/file/d/1ePWnpDaorDBLWi8CInNzSuno5nnFVMJ2/view</link>
 </item>
 
 <item>
-<title>[COLOR lime]LS-> INDIANA JONES E O TEMPLO DA CAVEIRA DE CRISTAL - 2008 - 1080- DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/6sNgjoewKK1cfJj5xq33TM5ypIK.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/dFiRfUOm7tw95BkEl9E7VYrS2pY.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1iBHqvoMzKbSK7mq6hNPPBSWwXB2UOLFJ/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REINO DA CAVEIRA DE CRISTAL - 2008 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=WAdJf4wTC5Y$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REINO DA CAVEIRA DE CRISTAL[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iBHqvoMzKbSK7mq6hNPPBSWwXB2UOLFJ/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REINO DA CAVEIRA DE CRISTAL - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] O REINO DA CAVEIRA DE CRISTAL - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59a28574f741c31b4030a292f6de17fe2e0b9c8f$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REINO DA CAVEIRA DE CRISTAL - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] O REINO DA CAVEIRA DE CRISTAL - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/INDNAJNSEOREIDCVNADCRSTL.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REINO DA CAVEIRA DE CRISTAL - 1080 - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] O REINO DA CAVEIRA DE CRISTAL - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/8zQkKWb/indiana-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/y6TvXY4/indiana-fan.jpg</fanart>
 <info>Indiana Jones e seu ajudante Mac escapam por pouco de um encontro com agentes soviéticos, em um campo de pouso remoto. Agora Indiana está de volta à sua casa na Universidade Marshall, mas seu amigo e reitor da escola, Dean Stanforth, explica que suas ações recentes o tornaram alvo de suspeita e que o governo está pressionando para que o demita. Ao deixar a cidade Indiana conhece o rebelde jovem Mutt Williams, que tem uma proposta: caso o ajude em uma missão Indiana pode deparar-se com a caveira de cristal de Akator. Agentes soviéticos também estão em busca do artefato, entre eles a fria e bela Irina Spalko, cujo esquadrão de elite está cruzando o globo atrás da Caveira de Cristal.</info>
 <genre>AVENTURA</genre>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <channels></channels>
 <channel>
