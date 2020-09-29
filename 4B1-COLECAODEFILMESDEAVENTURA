@@ -128,36 +128,62 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>AVENTURA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <item>
-<title>[COLOR lime]LS-> INDIANA JONES E OS CAÇADORES DA ARCA PERDIDA - 2017 - 1080- DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/htRP7qUFs1LbQfj7L7n2CWWqGDo.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/1TxaXNobCO3fhcgYUfLHj6CkEFP.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1NdKtMBwZ21z-uuh1LhsdWWvn9rixAus4/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CAÇADORES DA ARCA PERDIDA - 1981 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=VLyPvasvHDo$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CACADORES DA ARCA PERDIDA[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NdKtMBwZ21z-uuh1LhsdWWvn9rixAus4/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CACADORES DA ARCA PERDIDA - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CACADORES DA ARCA PERDIDA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c52da55739a2229b4cbad0023d9cf49afa9c5a7c&dn=Indiana.Jones.e.Os.Cacadores.Da.Arca.Perdida.Dublado.1080p+-+And&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CACADORES DA ARCA PERDIDA - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=tju-RrgWI7w$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CACADORES DA ARCA PERDIDA - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/INDNAJNSEOSCACDRSDARC.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS CACADORES DA ARCA PERDIDA - 1080 - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] OS CACADORES DA ARCA PERDIDA - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/ZY3tDpS/arcaperdida-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/9yvKC7H/arcaperdida-fan.jpg</fanart>
 <info>Em 1936, o arqueólogo Indiana Jones (Harrison Ford) é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria "Os Dez Mandamentos" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.</info>
 <genre>AVENTURA</genre>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]LS-> INDIANA JONES E O TEMPLO DA PERDIÇÃO - 1984 - 1080- DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/is6tntfGTpHxVRB0tIjZycS6thJ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/1KiBtEFQW6gPTFiMgOP0Zg6E11r.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1Ju87sihTQod54dQJhvEa6BHtWc4m5gKA/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O TEMPLO DA PERDIÇAO - 1984 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=7AJg9ThzH6c$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O TEMPLO DA PERDICAO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ju87sihTQod54dQJhvEa6BHtWc4m5gKA/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O TEMPLO DA PERDICAO - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] O TEMPLO DA PERDICAO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d147471d897f2f1d6a59429e539c92c7f01ef851&dn=Indiana.Jones.e.O.Templo.Da.Perdicao.Dublado.1080p+-+AndreTPF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O TEMPLO DA PERDICAO - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O TEMPLO DA PERDICAO - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/INDNAJNSTMPDPRDCAO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O TEMPLO DA PERDICAO - 1080 - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] O TEMPLO DA PERDICAO - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/9rBR88K/temploperdicao-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/pbNCsG7/temploperdicao-fan.jpg</fanart>
 <info>Em 1935, o professor, arqueólogo e aventureiro Indiana Jones tem uma nova missão: resgatar as pedras roubadas por um feiticeiro e libertar crianças escravizadas. Para tanto, enfrenta os poderes mágicos e o fanatismo de um culto que sacrifica seres humanos.</info>
 <genre>AVENTURA</genre>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]INDIANA JONES E A ÚLTIMA CRUZADA - 1989 - 1080- DUB [/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/reKBSz25urrdSxUJ2eOwiVUY9Ou.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/vfvVuu1JdnEGcyZUj7VHrhhbeMj.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1ePWnpDaorDBLWi8CInNzSuno5nnFVMJ2/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] A ÚLTIMA CRUZADA - 1989 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] A ULTIMA CRUZADA[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13pPw35CiVt8w7UQsrWAvxEo1dhs5hR6l/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] A ULTIMA CRUZADA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] A ULTIMA CRUZADA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a3ea9934af8beda99d3af8f842917e418a79a30&dn=Indiana.Jones.e.A.Ultima.Cruzada.Dublado.1080p+-+AndreTPF&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] A ULTIMA CRUZADA - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] A ULTIMA CRUZADA - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/INDNAJNSEAULTMCRZDA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] A ULTIMA CRUZADA - 1080 - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] A ULTIMA CRUZADA - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/8Dyzs7f/ultcruzada-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/YXxGJvJ/ultcruzada-fan.jpg</fanart>
 <info>Indiana Jones tem acesso à um misterioso envelope que contém informações sobre a localização do lendário Santo Graal, o cálice que Jesus Cristo teria utilizado na Última Ceia. Quando seu pai, o professor Henry Jones, é sequestrado pelos nazistas, o aventureiro irá embarcar numa missão perigosa para salvá-lo e impedir que a relíquia sagrada caia em mãos erradas.</info>
 <genre>AVENTURA</genre>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O REINO DA CAVEIRA DE CRISTAL - 2008 - DUB[/COLOR]</title>
