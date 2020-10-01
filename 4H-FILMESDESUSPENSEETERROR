@@ -213,6 +213,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>OS MELHORES FILMES DE SUSPENSE E TERROR ESTÃO AQUI</info>
 <genre>SUSPENSE E TERROR</genre>
 
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] UM LUGAR SILENCIOSO[/COLOR]</name>
+<link>NO LINK</link>
+<thumbnail>https://i.ibb.co/mCKNZwb/aquietplace-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/6D2D4Kx/aquietplace-fan.jpgFANART</fanart>
+<info>O Declínio", de Patrice Laliberté, mostra um grupo de pessoas que resolve fazer parte de uma experiência: viver num local afastado, caçando sua comida, bebendo água do rio e fazendo armadilhas como se um apocalipse estivesse próximo</info>
+<genre>SUSPENSE</genre>
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] UM LUGAR SILENCIOSO - 2018 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=8kEupkfQ7gQ$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] UM LUGAR SILENCIOSO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINKGDRIVE$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] UM LUGAR SILENCIOSO - RES - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33BEABDAE90F27A9B1C4CED3ADBEB0C0AD02C800&dn=Um%20Lugar%20Silencioso%202018%20%28720p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] UM LUGAR SILENCIOSO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2053D4FF3A21BD2721EFBB1DD2E06D6E80FB9D9E&dn=Um%20Lugar%20Silencioso%202018%20%281080p%29%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] UM LUGAR SILENCIOSO - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] UM LUGAR SILENCIOSO - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/UMLGRSLNCOSO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] UM LUGAR SILENCIOSO - 1080 - DUB[/COLOR]</link>
+<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/84430.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] UM LUGAR SILENCIOSO - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/mCKNZwb/aquietplace-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/6D2D4Kx/aquietplace-fan.jpgFANART</fanart>
+<info>Em uma fazenda nos Estados Unidos, uma família do Meio-Oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.</info>
+<genre>TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[COLOR lime]O ENIGMA DE OUTRO MUNDO - 1982 - 1080 - DUB[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFdL757I0ZHPBTqlxTj0DQorFSX.jpg</thumbnail>
