@@ -29,17 +29,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO - 2013 - DUB[/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS - 2013 - DUB[/COLOR]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=elKdcx9ar3k$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pMyzsGtfvC6MCQ499arrQLkXQ83iqbuk/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO - 1080 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G3PPRTG54Y7LNV5TMVK23VN3MBNNDDT3&dn=Monstros%20S.A.%202001%20WWW.BLUDV.COM$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO - 720 - DUB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TUHY3PESICLETNLKPQSN2N7DNXV2UM54&dn=Monstros%20S.A.%202001%20%5B1080p%5D%20WWW.BLUDV.COM$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=elKdcx9ar3k$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pMyzsGtfvC6MCQ499arrQLkXQ83iqbuk/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G3PPRTG54Y7LNV5TMVK23VN3MBNNDDT3&dn=Monstros%20S.A.%202001%20WWW.BLUDV.COM$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TUHY3PESICLETNLKPQSN2N7DNXV2UM54&dn=Monstros%20S.A.%202001%20%5B1080p%5D%20WWW.BLUDV.COM$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS - 1080 - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] UNIVERSIDADE MONSTRO - RES - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] UNIVERSIDADE MONSTROS - RES - DUB[/COLOR]</link>
 
-<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/UNIMNSTRS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO - 1080 - DUB[/COLOR]</link>
-<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/UNIMNSTRS.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/UNIMNSTRS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/UNIMNSTRS.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTROS - 1080 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/Z2yRdGT/univermonstro-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/WWJGK0M/univermonstro-fan.jpg</fanart>
@@ -47,8 +47,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMAÇÃO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
 
 <channels></channels>
 <channel>
@@ -115,6 +113,57 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMAÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] INCRÍVEIS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/y4tDcrP/incriveis-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS HERÓIS ESTÃO EM APUROS MAS NADA VAI DETÊ-LOS</info>
+<genre>ANIMAÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRÍVEIS 1 - 2004 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=p5T1KLmclyk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lqA9KRlDx12p2uK5E71T2CexoU3jS3z4/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 1 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:022AA39B9BF5F11F84BD21B6E7DA8FDC20C7E0E9$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E029098D27C543891BD3AC29FD473E80377B954A$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 1 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] INCRIVEIS 1 - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/OSINCRVS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 1 - 1080 - DUB[/COLOR]</link>
+<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/66931.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 1 - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/kKkNs5K/incriveis-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/MgytShm/incriveis-fan.jpg</fanart>
+<info>Beto Pêra e sua mulher Helena estavam entre os maiores super-heróis do mundo, salvando inúmeras vidas e combatendo o mal diariamente. Quinze anos depois, eles foram forçados a adotar novas identidades e a mudar-se para o subúrbio, onde vivem como cidadãos comuns com seus três filhos: Violeta, Flecha e Zezé. Louco para voltar à ação, Beto tem a sua chance quando uma misteriosa ligação o intima a comparecer a uma ilha distante para receber uma missão ultra-secreta... E aí começa a toda aventura!.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRÍVEIS 2 - 2018 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=zOZR0TRnSU8$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gL_Owh1Vk1yePfJz944r0PEwhOjB3crp/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 2 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09BAA2ADDFC024CD3D8751BFB57E87B82A116F85$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 2 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:707639C187515278C8D09A59A2A88D332036B355$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 2 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] INCRIVEIS 2 - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/OSINCRVS2.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 2 - 1080 - DUB[/COLOR]</link>
+<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/66930.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] INCRIVEIS 2 - 720 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/YtBC67m/incriveis2-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/ZWCsvjX/incriveis2-fan.jpg</fanart>
+<info>A família de super-heróis favorita de todo mundo está de volta em Os Incríveis 2, mas dessa vez, Helena está sendo o destaque, deixando Beto em casa com Violeta e Flecha para se aventurar no dia a dia heroico de vida “normal”. É uma transição difícil para todo mundo, sendo os super poderes emergentes de Zezé o fator mais complicado. Quando um novo vilão traça uma trama brilhante e perigosa, a família e Gelado devem encontrar uma maneira de trabalhar juntos novamente, o que é mais fácil dizer do que fazer, mesmo quando são incríveis</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 
 <channels>
 <channel>
@@ -338,34 +387,6 @@ https://drive.google.com/file/d/1UErRr3abA6XJgLY4-bDY73o8jN7YtNq_/view</link>
 </item>
 
 
-<channels></channels>
-<channel>
-<name>[COLOR lime]OS INCRÍVEIS[/COLOR]</name>
-<thumbnail>https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/05/the-incredibles-1.jpg</thumbnail>
-<fanart>https://www.tricurioso.com/wp-content/uploads/2018/06/os-incriveis-2-saiba-mais-informacoes-sobre-1280x720.jpg</fanart>
-<info>
-COLEÇÃO OS INCRÍVEIS COMPLETA</info>
-<genre>ANIMAÇÃO</genre>
-
-<item>
-<title>[COLOR lime]LS-> OS INCRÍVEIS I - 2004 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/tE5Kdj6c2sWMxamK8WCnk2uUzCP.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/iGknrkEyebPFmpQoLGy5L0utVxz.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1lqA9KRlDx12p2uK5E71T2CexoU3jS3z4/view</link>
-<info>Beto Pêra e sua mulher Helena estavam entre os maiores super-heróis do mundo, salvando inúmeras vidas e combatendo o mal diariamente. Quinze anos depois, eles foram forçados a adotar novas identidades e a mudar-se para o subúrbio, onde vivem como cidadãos comuns com seus três filhos: Violeta, Flecha e Zezé. Louco para voltar à ação, Beto tem a sua chance quando uma misteriosa ligação o intima a comparecer a uma ilha distante para receber uma missão ultra-secreta... E aí começa a toda aventura!.</info>
-<genre>ANIMAÇÃO</genre>
-</item>
-
-<item>
-<title>[COLOR lime]LS-> OS INCRÍVEIS II- 2018 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/6et98yxnctR6uH16x3uJuIVKsPf.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/fWTZdK1hJnNklNWT0kzbYLiJgWv.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1gL_Owh1Vk1yePfJz944r0PEwhOjB3crp/view</link>
-<info>A família de super-heróis favorita de todo mundo está de volta em Os Incríveis 2, mas dessa vez, Helena está sendo o destaque, deixando Beto em casa com Violeta e Flecha para se aventurar no dia a dia heroico de vida “normal”. É uma transição difícil para todo mundo, sendo os super poderes emergentes de Zezé o fator mais complicado. Quando um novo vilão traça uma trama brilhante e perigosa, a família e Gelado devem encontrar uma maneira de trabalhar juntos novamente, o que é mais fácil dizer do que fazer, mesmo quando são incríveis</info>
-<genre>ANIMAÇÃO</genre>
-</item>
 
 <channels></channels>
 <channel>
