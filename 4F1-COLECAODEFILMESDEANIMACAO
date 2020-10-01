@@ -1,14 +1,54 @@
-<channels>
+
+<channels></channels>
 <channel>
-<name>[COLOR lime]ESPECIAL SCOOBY DOO[/COLOR]</name>
-<thumbnail>https://uploaddeimagens.com.br/images/002/420/768/full/SCOOB-ESPECIAL.jpg</thumbnail>
-<fanart>https://uploaddeimagens.com.br/images/002/420/769/full/SCOOBYESP2.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1H1-ESPECIAL%20SCOOBY%20DOO%20MOVIES</externallink>
-<info>
-PARA OS FÃS DO MAIOR INVESTIGADOR CANINO DE MISTÉRIOS</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] MONSTROS S/A[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/317Cvjg/monstrossai-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MONSTROS ASSUSTADORES ATRÁS DE SUSTOS ENERGÉTICOS</info>
+<genre>ANIMAÇÃO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A - 2001 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=iRh2kF-1X2E$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1r8IwPetsgYOk4yejCUgNZ4MnKzKg-ugL/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:780EDA17B618E5F45C02F315AFD0BAC91B5611B3&dn=Monstros%20S.A%20720p%20Dublado%20-%20Filmes%20Kickass&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae64eb917a16d99b6029158e8b4836994d80ee80&dn=Monstros+S.A+%282001%29+1080p+Dublado+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker-ccc.de%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] MONSTROS S/A - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/MNSTRSA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A - 1080 - DUB[/COLOR]</link>
+<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/66941.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] MONSTROS S/A - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/nbwKKRF/monstrosa-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/yyF7hGW/monstrosa-fan.jpg</fanart>
+<info>Sulley e seu falante assistente Mike trabalham na Monstros S.A., a maior fábrica de processamento de gritos de Monstrópolis.A principal fonte de energia do mundo dos monstros provém da coleta dos gritos das crianças humanas. Só que os montros acreditam que as crianças são tóxicas e, quando uma menininha invade o mundo deles, começa a maior confusão.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO - 2013 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=elKdcx9ar3k$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pMyzsGtfvC6MCQ499arrQLkXQ83iqbuk/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G3PPRTG54Y7LNV5TMVK23VN3MBNNDDT3&dn=Monstros%20S.A.%202001%20WWW.BLUDV.COM$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TUHY3PESICLETNLKPQSN2N7DNXV2UM54&dn=Monstros%20S.A.%202001%20%5B1080p%5D%20WWW.BLUDV.COM$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] UNIVERSIDADE MONSTRO - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/UNIMNSTRS.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/UNIMNSTRS.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] UNIVERSIDADE MONSTRO - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/Z2yRdGT/univermonstro-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/WWJGK0M/univermonstro-fan.jpg</fanart>
+<info>Mike Wazowski e James P. Sullivan são uma dupla inseparável em Monstros S.A., mas nem sempre foi assim.Quando se conheceram na universidade, os dois jovens monstros se detestavam, com Mike sendo um sujeito estudioso, mas não muito assustador, e Sulley surgindo como o cara popular e arrogante, graças ao talento inerente para o susto.Após um incidente durante um teste, os dois são obrigados a participar da mesma equipe na Olimpíada dos Sustos. A equipe, por sinal, é formada por uma série de monstros desajustados, para o desespero de Sulley, acostumado a conviver com os caras mais populares da escola.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 
 <channels></channels>
 <channel>
@@ -75,6 +115,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMAÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime]ESPECIAL SCOOBY DOO[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/002/420/768/full/SCOOB-ESPECIAL.jpg</thumbnail>
+<fanart>https://uploaddeimagens.com.br/images/002/420/769/full/SCOOBYESP2.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1H1-ESPECIAL%20SCOOBY%20DOO%20MOVIES</externallink>
+<info>
+PARA OS FÃS DO MAIOR INVESTIGADOR CANINO DE MISTÉRIOS</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <channels></channels>
 <channel>
@@ -284,34 +337,6 @@ https://drive.google.com/file/d/1UErRr3abA6XJgLY4-bDY73o8jN7YtNq_/view</link>
 <genre>ANIMAÇÃO</genre>
 </item>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime]MONSTROS S/A[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/80TdbuMHxiEiCh75T36JVs1mlaV.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/4hzLPHrNsC9kqXjhY9azkmHQvEU.jpg</fanart>
-<info>
-COLEÇÃO MONSTROS S/A COMPLETA</info>
-<genre>ANIMAÇÃO</genre>
-
-<item>
-<title>[COLOR lime]LS-> MONSTROS S/A - 2001 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/qwYkweC0XWaIFspjLF83Y936zcT.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/wJOHzjTDhnEUyP0Q8gyp6ggvL4A.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1r8IwPetsgYOk4yejCUgNZ4MnKzKg-ugL/view</link>
-<info>Sulley e seu falante assistente Mike trabalham na Monstros S.A., a maior fábrica de processamento de gritos de Monstrópolis.A principal fonte de energia do mundo dos monstros provém da coleta dos gritos das crianças humanas. Só que os montros acreditam que as crianças são tóxicas e, quando uma menininha invade o mundo deles, começa a maior confusão.</info>
-<genre>ANIMAÇÃO</genre>
-</item>
-
-<item>
-<title>[COLOR lime]UNIVERSIDADE MONSTROS - 2013 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/lNxOapOzEm0lOMQ1v7QYeA6rLBY.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/5mDCKKS7M8aUZKdShnCa7lLbzmH.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1Z3hXCuMlBF9ggUgMOVA0CQyMVbxU9son/view</link>
-<info>Mike Wazowski e James P. Sullivan são uma dupla inseparável em Monstros S.A., mas nem sempre foi assim.Quando se conheceram na universidade, os dois jovens monstros se detestavam, com Mike sendo um sujeito estudioso, mas não muito assustador, e Sulley surgindo como o cara popular e arrogante, graças ao talento inerente para o susto.Após um incidente durante um teste, os dois são obrigados a participar da mesma equipe na Olimpíada dos Sustos. A equipe, por sinal, é formada por uma série de monstros desajustados, para o desespero de Sulley, acostumado a conviver com os caras mais populares da escola.</info>
-<genre>ANIMAÇÃO</genre>
-</item>
 
 <channels></channels>
 <channel>
