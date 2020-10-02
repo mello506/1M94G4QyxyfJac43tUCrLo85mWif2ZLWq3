@@ -21,6 +21,39 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A TURMA DO MANDA CHUVA[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/njc6SKV/mandachuvai-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O GATO MAIS AMLANDRO EM SUAS ATRAPALHADAS ARMAÇÕES</info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MANDA CHUVA O FILME - 2011 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=KQ-cgWokwP4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MANDA CHUVA O FILME[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YyMNZR-3OEp_CZF_XSdxSb8DgQBYMZGs/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] MANDA CHUVA O FILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] MANDA CHUVA O FILME - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] MANDA CHUVA O FILME - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=IZtIhAsMm1c$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] MANDA CHUVA O FILME - 720 - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] MANDA CHUVA O FILME - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] MANDA CHUVA O FILME - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/dMwHbp5/mandachuva-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/6DpXrrv/mandachuva-fan.jpg</fanart>
+<info>Manda-chuva e sua gangue vão enfrentar um novo chefe de polícia que não está nem um pouco feliz com o que a turma tem aprontada. Lucas Boa Pinta, o novo comissãrio, tem um arsenal tecnológico a seu serviço e vai tentar se apoderar da cidade, impondo leis absurdas. Será a vez da turma de Manda-chuva entrar em ação.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channels></channels>
+<channel>
 <name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O MANDALORIANO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/Q9850yj/mandaloriano-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
