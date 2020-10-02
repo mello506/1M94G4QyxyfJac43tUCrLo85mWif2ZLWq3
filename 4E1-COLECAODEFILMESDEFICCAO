@@ -1,6 +1,6 @@
 <channels></channels>
 <channel>
-<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDENPENDENCE DAY[/COLOR]</name>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] INDENPENDENCE DAY[/B][/COLOR]</name>
 <link>NO LINK</link>
 <thumbnail>https://i.ibb.co/QczC8wp/indepdaycol-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -8,7 +8,7 @@
 <genre>FICÇÃO</genre>  
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] INDEPENDENCE DAY 1 - 1996 - DUB[/B][/COLOR]</title>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1 - 1996 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=qOlVj9tmAHk$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TXQY0rG0JeuBo6IbZGsvziIeRSbVfUPa/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] INDEPENDENCE DAY 1 - 720 - DUB[/COLOR]</link>
