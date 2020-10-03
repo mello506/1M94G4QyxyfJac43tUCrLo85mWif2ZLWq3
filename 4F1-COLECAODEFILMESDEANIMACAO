@@ -161,6 +161,56 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] AVIÕES[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/Bf9h7gM/avioesi-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO AVIÕES COMPLETA</info>
+<genre>ANIMAÇÃO</genre>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIÕES 1 - 2013 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=b2gWE2txmFI$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YnbM7Nz8Q0qZJ-HlUEu4-ld3afXKJnDj/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 1 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:894aa76e62f717b8ed4d17f81659e7e069b4bee4&dn=Avi%26otilde%3Bes+%282013%29+BDRip+bluray+720p+torrent+dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51347756d4b752ef14fb24498991f41f48297fef&dn=Avioes+1080p+Bluray+DualAudio+Dublado+5.1+%2B+Legenda&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 1 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] AVIOES 1 - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] AVIOES 1 - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] AVIOES 1 - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/C05jCKC/avi-es1-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/j8d3ySL/avi-es1-fan.jpg</fanart>
+<info>Dusty não foi propriamente feito para participar em corridas aéreas e ainda por cima tem medo de alturas. Por isso, recorre a Skipper, um aviador naval, que ajuda Dusty a qualificar-se para competir com Ripslinger, o detentor do título de campeão do circuito de corridas. A coragem de Dusty é posta à prova quando ousa alcançar alturas que nunca imaginara possíveis, inspirando-o a voar mais alto.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIÕES 2 - HERÓIS DO FOGO AO RESGATE - 2014 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=KHQ6lcoMQTE$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 2 - HEROIS DO FOGO AO RESGATE[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LjBxLKG7LY7-zm4CDEz4GRugM8Eawd_V/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 2 - HEROIS DO FOGO AO RESGATE - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ff3e397d0c0b1b190e7f65ca496503ec6dd91a3&dn=Avioes+2+%282014%29+BDRip+Dual+Audio+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 2 - HEROIS DO FOGO AO RESGATE - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bef541d70b5b749d17e7b3305a4415e2746c739&dn=Avioes+2+%282014%29+1080p+Bluray+Dual+Audio+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVIOES 2 - HEROIS DO FOGO AO RESGATE - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] AVIOES 2 - HEROIS DO FOGO AO RESGATE - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] AVIOES 2 - HEROIS DO FOGO AO RESGATE - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] AVIOES 2 - HEROIS DO FOGO AO RESGATE - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/YQQMdX3/avi-es2-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/gMbwpPZ/avi-es2-fan.jpg</fanart>
+<info>Aviões 2: Heróis do Fogo ao Resgate é uma nova comédia de aventura na qual Dusty se une a uma dinâmica equipe de elite de combate a incêndios e aprende o que é preciso para ser um verdadeiro herói.</info>
+<genre>ANIMAÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 <channels>
@@ -305,34 +355,6 @@ eles partem para a maior aventura de suas vidas. O teste final do campeão será
 <genre>ANIMAÇÃO</genre>
 </item>
 
-<channels></channels>
-<channel>
-<name>[COLOR lime]AVIÕES[/COLOR]</name>
-<thumbnail>https://i.ibb.co/DzbdPYm/avioesicon.jpg</thumbnail>
-<fanart>https://i.ibb.co/zQQ6WTz/avioesfan.jpg</fanart>
-<info>
-COLEÇÃO AVIÕES COMPLETA</info>
-<genre>ANIMAÇÃO</genre>
-
-<item>
-<title>[COLOR lime]LS-> AVIÕES I- 2013 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/avpnIa8tCEkr849RqkbjV6XVI3V.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/nNg6mO4phsq6DVHqh4yRTITPsxC.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1I7HKBF1yDOCrj_QBV43oYJ192RxQejCI/view</link>
-<info>Dusty não foi propriamente feito para participar em corridas aéreas e ainda por cima tem medo de alturas. Por isso, recorre a Skipper, um aviador naval, que ajuda Dusty a qualificar-se para competir com Ripslinger, o detentor do título de campeão do circuito de corridas. A coragem de Dusty é posta à prova quando ousa alcançar alturas que nunca imaginara possíveis, inspirando-o a voar mais alto.</info>
-<genre>ANIMAÇÃO</genre>
-</item>
-
-<item>
-<title>[COLOR lime]LS-> AVIÕES II- 2014 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/adhs3EdPlCENNtQkWWuAUk7AlCN.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3MET6hEfk8n8i0KFRq9BHnJq7ju.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1oNEhoHlw2fHOmufWRcgYcufVuTR0LtXs/view</link>
-<info>Aviões 2: Heróis do Fogo ao Resgate é uma nova comédia de aventura na qual Dusty se une a uma dinâmica equipe de elite de combate a incêndios e aprende o que é preciso para ser um verdadeiro herói.</info>
-<genre>ANIMAÇÃO</genre>
-</item>
 
 <channels></channels>
 <channel>
