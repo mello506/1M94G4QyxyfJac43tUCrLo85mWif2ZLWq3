@@ -204,56 +204,98 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <channels></channels>
 <channel>
 <name>[B]COLEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] CONAN[/B][/COLOR]</name>
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://i.ibb.co/10bj39x/conani-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>AS PERIPÉCIAS DO PIRATA MAIS CARISMÁTICO DOS SETE MARES</info>
+<info>COLEÇÃO CONAN COMPLETA</info>
 <genre>AVENTURA</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <item>
-<title>[COLOR lime]LS-> CONAN O BÁRBARO - 1982 - 720 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1hKgqCXErn9YZoTLONZZY0jmOC.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kAhsLsUPZcwbzQBnc79brIWDP24.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1-_Z9dKXnsSu6DMdpJj7eRNSLLC-_eJSi/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O BÁRBARO - 1 - 1982 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=xwdYd_RdLCQ$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O BARBARO - 1[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-_Z9dKXnsSu6DMdpJj7eRNSLLC-_eJSi/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O BARBARO - 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34A8F5B530AC27366443DE9C3F1689D144E5C2E6&dn=Conan%2C%20o%20B%26aacute%3Brbaro%20(1982)%20BRrip%20Blu-Ray%20720p%20Dublado%20Dat201&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O BARBARO - 1 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e645b6fc087624eabbe5702a08d7db823070c41&dn=Conan+the+Barbarian+1982+BluRay+BD25+AVC+DTS-HD&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O BARBARO - 1 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=25kcHPRPy34$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O BARBARO - 1 - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/CNANOBABRO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O BARBARO - 1 - 1080 - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] CONAN O BARBARO - 1 - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/0jJPjgk/conanbarbaro-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/4pxPgMP/conanbarbaro-fan.jpg</fanart>
 <info>Há milhares de anos Thulsa Doom, um demoníaco feiticeiro, comanda um ataque por motivos até hoje não revelados que poderia ser simplesmente pelo prazer de matar ou para descobrir o segredo do aço, que era guardado pelos moradores desta aldeia. Conan, um cimério, vê seus pais serem mortos na sua frente e seu povo ser massacrado, sendo que ele, ainda criança, é levado para um campo de escravos. Os anos passam e ele desenvolve uma enorme força física, o que faz Conan se tornar gladiador. Ele ainda se mantém determinado a vingar a morte dos pais e quando é libertado tenta alcançar seu objetivo. Conan descobre que Thulsa Doom lidera o misterioso culto da serpente e, tentando se aproximar do feiticeiro, faz amizade com dois ladrões, Valeria e Subotai. Ao trio é prometida uma vultosa recompensa pelo rei Osric, que quer que o trio de guerreiros resgate sua filha, que se tornou uma seguidora de Thulsa Doom.</info>
 <genre>AVENTURA</genre>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]LS-> CONAN O DESTRUIDOR - 1984 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tw9rVP0r69clwU0MmKzccd0hcC.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/lpxc9mBIfXB0h4WnGzRsxG9Orcj.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/19wxiCSoqkHK0km_Pc_Rp3F12Fvfp6zlf/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O DESTRUIDOR  - 1984 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=0zdyHqB9o-w$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O DESTRUIDOR [/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19wxiCSoqkHK0km_Pc_Rp3F12Fvfp6zlf/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O DESTRUIDOR  - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9d3d7dc0a3e79fbdacb347e446d25ba7c0f2444$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O DESTRUIDOR  - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d38f025ac6e56ef320ec31b918c2388f0353153$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O DESTRUIDOR  - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] CONAN O DESTRUIDOR  - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/CNANODSTRDR.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O DESTRUIDOR  - 1080 - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] CONAN O DESTRUIDOR  - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/g6vJxCx/conandestruidor-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/c1kNChy/conandestruidor-fan.jpg</fanart>
 <info>Para que a rainha Taramis cumpra a promessa de trazer a amada de Conan, Valeria, do mundo dos mortos, o bárbaro terá de cumprir uma perigosa missão que envolve a princesa Jehnna. Mas o que ele desconhece é que Taramis ordenou que, após a missão cumprida, Conan seja morto e a virginal princesa retorne para então ser sacrificada ao deus demônio Dagoth.</info>
 <genre>AVENTURA</genre>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]LS-> CONAN O BÁRBARO - 2011 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/baD8Ne93CAtjTlrZgUz7GOGnMer.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/381rd4LVvy6AkSB9tqHNu81ftyR.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1hH4UpeBiTy0T8O7VObbRxY7DsLYiBS9X/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O BÁRBARO - 2 - 2011 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=jzOWTO21Lh0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O BARBARO - 2[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hH4UpeBiTy0T8O7VObbRxY7DsLYiBS9X/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O BARBARO - 2 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c11915c004bfccf6af1399ad149f418b1b504bcc&dn=Conan+-+O+Barbaro+%282011%29+bluray+HD+720p+dublado+-+derew+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O BARBARO - 2 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcec40f2f06ec6fc569c5543b1310bd218ce6854&dn=Conan%2C+o+B%C3%A1rbaro+2011+%5B1080p%5D++WWW.BLUDV.COM$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O BARBARO - 2 - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] CONAN O BARBARO - 2 - RES - DUB[/COLOR]</link>
+
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/CNANOBABRO2011.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] CONAN O BARBARO - 2 - 1080 - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] CONAN O BARBARO - 2 - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/XsPDVSV/conanbarbaro2-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/QmtPwCc/conanbarbaro2-fan.jpg</fanart>
 <info>O maior e mais lendário bárbaro de todos os tempos está de volta. Prosperou e evoluiu para oito décadas consecutivas na imaginação do público - em quadrinhos, jogos, tela grande e pequena - explorar Conan na Era Hiboriana será como nunca, seu mundo ganhou vida em um filme 3D colossal, cheio de ação e aventura. A busca feroz do guerreiro cimério começa como uma vingança pessoal, mas logo se transforma em uma batalha épica contra seus rivais hukking, e situações impossíveis, Conan é única opção para salvar as grandes nações da Hyboria de uma invasão sobrenatural.</info> 
 <genre>AVENTURA</genre>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR lime]LS-> RED SONJA-GUERREIROS DE FOGO - 1985 - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dux6Q7nXxwoPN8p2eDAXZLv71uK.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/sZXHG8owH7YboOQeCrePGNGiSNA.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/14jY6a1QReazRQ8MQmqNJjMPhkERA2TuQ/view</link>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] REDE SONJA - GUERREIROS DE FOGO - 1985 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=MXfVp6WXE5M$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] REDE SONJA - GUERREIROS DE FOGO[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14jY6a1QReazRQ8MQmqNJjMPhkERA2TuQ/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] REDE SONJA - GUERREIROS DE FOGO - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] REDE SONJA - GUERREIROS DE FOGO - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CEB45CB85D0C76828EC1FEED4A0F39963BF3337E&dn=Guerreiros.do.Fogo.1985.1080p.Dual-WOLVERDONFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] REDE SONJA - GUERREIROS DE FOGO - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] REDE SONJA - GUERREIROS DE FOGO - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] REDE SONJA - GUERREIROS DE FOGO - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] REDE SONJA - GUERREIROS DE FOGO - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/djVQDQr/redsonja-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/C1xHyn1/redsonja-fan.jpg</fanart>
 <info>A tirana Gedren busca o poder total em um mundo de barbárie. Ela invade a cidade de Hablac e mata o guardião de um talismã que lhe dá grande poder. Red Sonja, irmã do guardião, levanta-se com sua espada mágica para derrubar Gedren.</info>
 <genre>AVENTURA</genre>
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <channels></channels>
 <channel>
