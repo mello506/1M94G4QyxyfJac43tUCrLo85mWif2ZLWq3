@@ -27,6 +27,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] FESTA NO CÉU - 2014 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=8gTP4-AfjMY$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] FESTA NO CEU[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11sSbP-imwR5lXEMrYOVizhTFToZrBiMJ/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR red] FESTA NO CEU - 1080
+- DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ED6324B3BF0A5B92EA423C9CD935DD1FF8C2BBF0&dn=Festa%20no%20C%c3%a9u%20%282014%29%20720p%205.1%20Dublado%20-%20Alan_680&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce%C2%A0$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] FESTA NO CEU - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3B9B86B3DFE39938856B28891D4CBB8A5D005C59&dn=Festa%20no%20C%c3%a9u%20%282014%29%201080p%205.1%20Dublado%20-%20Alan_680&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce%C2%A0$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] FESTA NO CEU - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=6j2nw9VQ_pc$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FESTA NO CEU - RES - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/FSTNOCEU.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] FESTA NO CEU - 1080 - DUB[/COLOR]</link>
+<link>http://assistaiptvplay.com:80/movie/samuel1234/samuel1234/66911.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] FESTA NO CEU - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/4dMG2NM/festanoceu-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/9b2GzXd/festanoceu-fan.jpg</fanart>
+<info>O jovem Manolo tem dúvidas entre cumprir as expectativas impostas por sua família de toureiros ou seguir a vontade de seu coração - que leva à música. Tentando se decidir, ele embarca em uma viagem por três diferentes mundos: o dos Vivos, o dos Esquecidos e o dos Eternizados. Ele encontra figuras marcantes e conta com o apoio do amigo Joaquin e da amada Maria</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIDA DE INSETO - 1998 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=znXehHytQcM$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIDA DE INSETO[/COLOR]</link>
@@ -35,8 +56,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44C5F6C9C30777B1338A5BDFB5ED019B9E2744D4&dn=Vida%20de%20Inseto%20%281998%29%20BluRay%201080p%20Dublado$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIDA DE INSETO - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=gfl-Ri5ifsI$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIDA DE INSETO - 720 - DUB[/COLOR]</link>
 <link>https://proxy.ec.cx/video.php?url=RCFServer3/ondemand/VDADISNTO.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIDA DE INSETO - 1080 - DUB[/COLOR]</link>
-
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] VIDA DE INSETO - RES - DUB[/COLOR]</link>
+<link>http://vipeiptv.com:25461/movie/macarrao/macarrao/783815.mp4$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] VIDA DE INSETO - 720 - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/6yDCH1z/vidainseto-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/L9f7BCf/vidainseto-fan.jpg</fanart>
