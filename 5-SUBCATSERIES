@@ -62,15 +62,30 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>FICÇÃO</genre>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channel>
+<channels>
 <name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] [B]IMPUROS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/5C-IMPUROS</externallink>
 <thumbnail>https://i.ibb.co/ypYBczn/impuros-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/4KKdD1X/impuros-fan.jpg</fanart>
-<info>No Rio de Janeiro dos anos 1990, em um território conflagrado por problemas sociais e onde a oportunidade do crime é muito tentadora, Evandro enfrenta as complexidades do mundo do tráfico e a relação complicada com a própria mãe.</info>
+<info>O SUB MUNDO MAIS SUJO</info>
 <genre>CRIME E DRAMA</genre> 
 </channel>
 </channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<channels>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] KEVIN CAN WAIT[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/5E_KEVINCANWAIT</externallink>
+<thumbnail>https://i.ibb.co/nztgm9x/kevin-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>kEVIN PODE ESPERAR VOCÊ NÃO ASSISTA E DÊ BOAS RISADAS</info>
+<genre>COMÉDIA</genre>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
