@@ -134,9 +134,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=jAE_eiX6-hY$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] TERRENO PROIBIDO[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1V0m39Qs4PyI4LwB9QPSILJYsqSVhcPo3/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] TERRENO PROIBIDO - 2013 - 1080 - DUBLEG[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e199557abdb089b20a2f2085a37ec03a11ecdd53&dn=Terreno+Proibido+%282013%29+BDRip+720p+dublado+-+Gilkerberus&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] TERRENO PROIBIDO - 2013 - RES - DUBLEG[/COLOR]</link>
+
 <link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] TERRENO PROIBIDO - 2013 - RES - DUBLEG[/COLOR]</link>
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] TERRENO PROIBIDO - 2013 - RES - DUBLEG[/COLOR]</link>
+
 <link>plugin://plugin.video.youtube/play/?video_id=_YIYcruRcSc$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] TERRENO PROIBIDO - 2013 - RES - DUBLEG[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] TERRENO PROIBIDO - 2013 - RES - DUBLEG[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] TERRENO PROIBIDO - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/zs0bfHv/terrenoproibido-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/3kjXzR9/terrenoproibido-fan.jpg</fanart>
