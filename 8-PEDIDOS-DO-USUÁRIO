@@ -148,6 +148,38 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Terceira temporada completa da série. Acompanhe a rotina de entrega, esforço e muita pressão pela qual os médicos de um hospital público passam todos os dias. Em comum, o desejo de salvar vidas. </info>
 <genre>DRAMA</genre>  
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SOB PRESSÃO - O FILME[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/g47S11V/sobpressao-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> SOB PRESSÃO O FILME</info>
+<genre>DRAMA</genre>
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSÃO - 2016 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=IF2mDeccjGE$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GfKj8pBopiq72VWCn9IZdVIbhh5dxCig/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] SOB PRESSAO - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13561C5D45F967E5F8397B5928A33CFE0C3D61E4&dn=Sob.Pressao.2017.1080p.WEB-DL.Nacional&tr=http%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=http%3a%2f%2ftracker.kuroy.me%3a5944%2fannounce&tr=http%3a%2f%2f87.248.186.252%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=http%3a%2f%2ftracker.filetracker.pl%3a8089%2fannounce&tr=http%3a%2f%2ftracker.grepler.com%3a6969%2fannounce&tr=http%3a%2f%2f210.244.71.25%3a6969%2fannounce&tr=udp%3a%2f%2f182.176.139.129%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fatrack.pow7.com%2fannounce&tr=http%3a%2f%2f74.82.52.209%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tvunderground.org.ru%3a3218%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOUTUBE$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] SOB PRESSAO - RES - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] SOB PRESSAO - red - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] SOB PRESSAO - red - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/ThkCXXT/sobprssao-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/sgY9gCw/sobprssao-fan.jpg</fanart>
+<info>Filme da série Sob Pressão da Globo. Durante um dia tenso no centro da sala de emergência, sala de trauma e cirurgia seguimos o cirurgião Evandro e sua equipe em três casos que necessitam de cirurgias de alto risco: um traficante de drogas, um policial e um filho de uma família rica, todos feridos durante um tiroteio em uma favela perto do hospital. De frente para a emergência, as condições limitadas do hospital e a pressão de familiares e outras pessoas ligadas aos pacientes, Evandro se vê diante de escolhas difíceis, fazendo o que é possível e tentando o impossível. </info>
+<genre>DRAMA</genre>  
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
