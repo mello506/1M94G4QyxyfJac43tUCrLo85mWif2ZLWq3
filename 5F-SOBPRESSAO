@@ -22,15 +22,46 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels></channels>
 <channel>
-<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SOB PRESSÃO - A SÉRIE - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/1A9-SOBPRESSAO</externallink>
+<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SOB PRESSÃO - A SÉRIE - T01 - 2017 -DUB [/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/g47S11V/sobpressao-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>COLEÇÃO SOB PRESSÃO COMPLETA SERVER 1</info>
 <genre>DRAMA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSÃO - T01  2017 - RES - DUB[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=PFpn1g_rHG0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gopRl_M3qBbula7Oz6C6UTi0ur6q2Q-g/view$$lsname=[B]G DRIVE - T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hW-XihcX5pKjjRYY8dC-bSqtT1CExY_F/view$$lsname=[B]G DRIVE - T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14w7hYwcPyCF8-ExSqD50m02hoPGWXy93/view$$lsname=[B]G DRIVE - T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OqKCZVfKapH4RcefQ0jj7KwQbBYcVVO6/view$$lsname=[B]G DRIVE - T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wKlTRKkO4qjaTKZiQLPa8FV6tnW8PoYh/view$$lsname=[B]G DRIVE - T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nph2Ffl0tLOfFO6qnLmiMutYWTXVo-sQ/view$$lsname=[B]G DRIVE - T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cfW_btweWHLW_GSQpDvEys2W15aRPlD5/view$$lsname=[B]G DRIVE - T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14GLD_vgKxGdSh9SKEJtKibIUAryc43bo/view$$lsname=[B]G DRIVE - T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1o9KQfUxpgh-lInuVsdUGTnM041XqM7vh/view$$lsname=[B]G DRIVE - T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/ThkCXXT/sobprssao-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/sgY9gCw/sobprssao-fan.jpg</fanart>
+<info>Primeira temporada completa da série nacional Sob Pressão da Rede Globo. O dia-a-dia dos funcionários de um hospital público no subúrbio do Rio de Janeiro não é nada fácil, especialmente para o Dr. Evandro (Júlio Andrade), o cirurgião-chefe da equipe médica. Cético, ele encontra alívio para os seus problemas na companhia da doutora Carolina (Marjoire Estiano), sua colega de trabalho que, diferente dele, encontra na fé o refúgio para seus problemas. Os dois podem até ser diferentes, mas vão encontrar um no outro uma maneira de sobreviver entre as emergências do hospital e o caos de suas próprias vidas. </info>
+<genre>DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
@@ -181,5 +212,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Filme da série Sob Pressão da Globo. Durante um dia tenso no centro da sala de emergência, sala de trauma e cirurgia seguimos o cirurgião Evandro e sua equipe em três casos que necessitam de cirurgias de alto risco: um traficante de drogas, um policial e um filho de uma família rica, todos feridos durante um tiroteio em uma favela perto do hospital. De frente para a emergência, as condições limitadas do hospital e a pressão de familiares e outras pessoas ligadas aos pacientes, Evandro se vê diante de escolhas difíceis, fazendo o que é possível e tentando o impossível. </info>
 <genre>DRAMA</genre>  
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SOB PRESSÃO - A SÉRIE - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/1A9-SOBPRESSAO</externallink>
+<thumbnail>https://i.ibb.co/g47S11V/sobpressao-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLEÇÃO SOB PRESSÃO COMPLETA SERVER 1</info>
+<genre>DRAMA</genre>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
