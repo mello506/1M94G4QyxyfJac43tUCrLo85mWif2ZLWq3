@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SOB PRESSÃO - A SÉRIE - T01 - 2017 -DUB [/B][/COLOR]</name>
+<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SOB PRESSÃO - A SÉRIE - DUB[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/g47S11V/sobpressao-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>COLEÇÃO SOB PRESSÃO COMPLETA SERVER 1</info>
@@ -58,6 +58,40 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>DRAMA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSÃO - T02  2018 - 1080 - DUB[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] NOMEDASERIE[/COLOR]</link>
+
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pm4WUCh8bvESoWk9L3UJ7U17UYr0N94m/view$$lsname=[B]G DRIVE - T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19tZufWUi9NOpC7un0bkH148sEWd1t2d9/view$$lsname=[B]G DRIVE - T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FTil0Mcb1G04dR6MP-SAA53AQyytbkAj/view$$lsname=[B]G DRIVE - T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GCQNR4i_--Fx1_VJpY1wvn6QG1wMIeZm/view$$lsname=[B]G DRIVE - T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1o4BXcwXxk8AgLGuPo3Op83dkIoYkurZE/view$$lsname=[B]G DRIVE - T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W2ojD1LbSZ6lszGYlx6qY1SmL-LLRH_Z/view$$lsname=[B]G DRIVE - T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1b6GyW8CMlGOoNRKO1caD8xuYoX4jCkx9/view$$lsname=[B]G DRIVE - T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1njIlRXgQZsOTjWw2U8wdO3VeVAP11h1t/view$$lsname=[B]G DRIVE - T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mbhBjEeAjqWcdox8ncqRFvhZY1iJ-btP/view$$lsname=[B]G DRIVE - T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1re8HYsvLIvN_v2U5I0S73jGXnteOANF3/view$$lsname=[B]G DRIVE - T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] SOB PRESSAO[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/ThkCXXT/sobprssao-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/sgY9gCw/sobprssao-fan.jpg</fanart>
+<info>Segunda temporada completa da série nacional Sob Pressão da Rede Globo. O dia-a-dia dos funcionários de um hospital público no subúrbio do Rio de Janeiro não é nada fácil, especialmente para o Dr. Evandro (Júlio Andrade), o cirurgião-chefe da equipe médica. Cético, ele encontra alívio para os seus problemas na companhia da doutora Carolina (Marjoire Estiano), sua colega de trabalho que, diferente dele, encontra na fé o refúgio para seus problemas. Os dois podem até ser diferentes, mas vão encontrar um no outro uma maneira de sobreviver entre as emergências do hospital e o caos de suas próprias vidas. </info>
+<genre>DRAMA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 
 <channels></channels>
 <channel>
