@@ -120,16 +120,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <item>
-<title>[COLOR lime]LS-> O PIANISTA - 2002  - 1080 - DUB[/COLOR]</title>
-<thumbnail>https://http2.mlstatic.com/dvd-do-filme-o-pianista-um-classico-do-cinema-original-D_NQ_NP_626705-MLB25066849341_092016-F.jpg</thumbnail>
-<fanart>https://www.cafecomfilme.com.br/media/k2/galleries/3869/03.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1Y5jJn6AOUy6fU2itSMbNV_BHtI4m-uxE/view</link>
-<info>Durante a Segunda Guerra Mundial, a Alemanha avança rumo à França e cerca as tropas aliadas nas praias de Dunkirk. Sob cobertura aérea e terrestre das forças britânicas e francesas, as tropas são lentamente evacuadas da praia.</info>
-<genre>2ª GUERRA</genre>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PIANISTA - 2002 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=6NXjPxA_z0Q$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PIANISTA[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y5jJn6AOUy6fU2itSMbNV_BHtI4m-uxE/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PIANISTA - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] O PIANISTA - 720 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dedad97cddfa63ca64d79f1736555e6bf8a4460&dn=O+Pianista+1080p+%282002%29+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PIANISTA - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=SYwYEZ-cOFo$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PIANISTA - 1080 - DUB[/COLOR]</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer4/ondemand/OPNSTA.mp4$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PIANISTA - 1080 - DUB[/COLOR]</link>
+
+<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime] O PIANISTA - RES - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/v4g59KW/opianista-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/G0xCLZs/opianista-fan.jpg</fanart>
+<info>O brilhante pianista polonês Wladyslaw Szpilman (Adrien Brody), um dos músicos mais aclamados de sua geração, interpretava peças clássicas em uma rádio de Varsóvia quando as primeiras bombas caíram sobre a cidade, em 1939. Com a invasão alemã e o início da 2ª Guerra Mundial, começaram também restrições aos judeus poloneses pelos nazistas. Inspirado nas memórias do pianista, o filme mostra o surgimento do Gueto de Varsóvia, quando os alemães construíram muros para encerrar os judeus em algumas áreas, e acompanha a perseguição que levou à captura e envio da família de Szpilman para os campos de concentração. Wladyslaw é o único que consegue fugir e é obrigado a se refugiar em prédios abandonados espalhados pela cidade, até que o pesadelo da guerra acabe.</info>
+<genre>GUERRA</genre>  
 </item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 <item>
 <title>[COLOR lime]LS-> SOBIBOR - 2019  - 720 - DUBLADO[/COLOR]</title>
