@@ -13,15 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.youtube/play/?video_id=KQ-cgWokwP4$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MANDA CHUVA O FILME[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YyMNZR-3OEp_CZF_XSdxSb8DgQBYMZGs/view$$lsname=[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime] MANDA CHUVA O FILME - 720 - DUB[/COLOR]</link>
 
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] MANDA CHUVA O FILME - 720 - DUB[/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK1080$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] MANDA CHUVA O FILME - 1080 - DUB[/COLOR]</link>
-
 <link>plugin://plugin.video.youtube/play/?video_id=IZtIhAsMm1c$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] MANDA CHUVA O FILME - 720 - DUB[/COLOR]</link>
-
-<link>LINKUNIVERSAL$$lsname=[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR red] MANDA CHUVA O FILME - RES - DUB[/COLOR]</link>
-
-<link>LINKUNIVERSAL$$lsname=[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red] MANDA CHUVA O FILME - RES - DUB[/COLOR]</link>
 
 <thumbnail>https://i.ibb.co/3yxCSPQ/mandachuvafilm-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/nDZDW9y/mandachuvafilm-fan.jpg</fanart>
@@ -57,7 +49,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NOWMXaiheJtd2Ax5khQXE1npzHH-NJj2/view$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime] O involuntario do espaco[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FG1OwbeLWl1fq8LznDwfVNXyPML28nAu/view$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime] O finado manda-chuva[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qBfa9aLnf-BP4eiFqlwGNlZ4--UzQcJA/view$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime] Parabens para voce[/COLOR]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PzKnqaOEjn7xqspUp6ZuSfsTC_vn41oc/view$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime] Alguem está caduco[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PzKnqaOEjn7xqspUp6ZuSfsTC_vn41oc/view$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime] Alguem esta caduco[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14c_VqJdz2WJoe-DQpM3aNbtZnFeoOjt4/view$$lsname=[B]T01E25[/B][COLOR yellow] ->[/COLOR][COLOR lime] Rei Por um Dia[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-nds-r1R_s1avr1ExBrZqysT6x_Xq81U/view$$lsname=[B]T01E26[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Sentenciado[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WE2obVcXhwCbovg9Kt3RZTwbaSBgEepI/view$$lsname=[B]T01E27[/B][COLOR yellow] ->[/COLOR][COLOR lime] Batendo o Record[/COLOR]</link>
