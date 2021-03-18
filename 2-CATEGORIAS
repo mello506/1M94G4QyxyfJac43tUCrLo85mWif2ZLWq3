@@ -46,6 +46,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR red][B] ANIMES [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOTORRENT-LUMINART/main/7-ANIMES-TORRENT</externallink>
+<thumbnail>http://</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A CULTURA ANIME REPRESENTADA AQUI</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR red][B] NOVELAS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1C-SELNOVELAS-GERAL</externallink>
 <thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
@@ -106,19 +118,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] ANIMES EM TORRENT[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOTORRENT-LUMINART/main/7-ANIMES-TORRENT</externallink>
-<thumbnail>http://</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>A CULTURA ANIME REPRESENTADA AQUI</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR red][B] PEDIDOS DO USUÁRIO[/B][/COLOR]</name>
+<name>[COLOR red][B] ADICIONADOS DA SEMANA [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/5-PEDIDOSDOSUSUARIOS</externallink>
 <thumbnail>https://i.ibb.co/5GJcD0n/pedidos-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
