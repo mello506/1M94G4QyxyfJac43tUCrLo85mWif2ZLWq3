@@ -34,8 +34,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] SÉRIES[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1B-SELSERIES-GERAL</externallink>
+<name>[COLOR lime][B] SÉRIES[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/2B-SELSERIES-OFICIAL</externallink>
 <thumbnail>http://bit.do/cat-series</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SUA MARATONA ESTA AQUI </info>
@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] ANIMES [/B][/COLOR]</name>
+<name>[COLOR lime][B] ANIMES [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOTORRENT-LUMINART/main/7-ANIMES-TORRENT</externallink>
 <thumbnail>http://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -58,8 +58,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] NOVELAS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1C-SELNOVELAS-GERAL</externallink>
+<name>[COLOR lime][B] NOVELAS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/2C-SELNOVELAS-OFICIAL</externallink>
 <thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA</info>
@@ -70,8 +70,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] DESENHOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1D-SELDESENHOS-GERAL</externallink>
+<name>[COLOR lime][B] DESENHOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/2D-SELDESENHOS-OFICIAL</externallink>
 <thumbnail>http://bit.do/cat-desenhos</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>DIVERSÃO GARANTIDA PARA A CRIANÇADA </info> 
@@ -82,8 +82,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] TVs ONLINE[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOTVs-LUMINART/main/1-SELETIVA-LISTATVs-ALLUSER</externallink>
+<name>[COLOR lime][B] TVs ONLINE[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/2G-SELTVsONLINE-OFICIAL</externallink>
 <thumbnail>https://i.ibb.co/Hh4Pkgk/tvsonline-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA </info>
@@ -94,8 +94,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] SEÇÃO NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOGDRIVE-LUMINART/main/7-SEL-SECAONOSTALGIA</externallink>
+<name>[COLOR lime][B] SEÇÃO NOSTALGIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/2I-SELNOSTALGIA-OFICIAL</externallink>
 <thumbnail>https://i.ibb.co/GsnR7BB/nostalgia-pasta.jpg</thumbnail
 <fanart>http://bit.do/entrarfanart</fanart>
 <info> FILMES DIFÍCEIS DE ENCONTRAR NA WEB</info>
@@ -107,7 +107,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B] SEÇÕES ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOREDCAN-LUMINART/main/6-ESPECIAIS-REDCAN</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/2F-SELESPECIAIS-OFICIAL</externallink>
 <thumbnail>https://i.ibb.co/t2pvm2f/scoesespeciais-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS DESTAQUES DA SÉTIMA ARTE</info>
@@ -118,8 +118,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] ADICIONADOS DA SEMANA [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/5-PEDIDOSDOSUSUARIOS</externallink>
+<name>[COLOR lime][B] ADICIONADOS DA SEMANA [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/2K-ATUALIZA%C3%87%C3%83O-OFICIAL</externallink>
 <thumbnail>https://i.ibb.co/5GJcD0n/pedidos-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS PEDIDOS DO USUÁRIO</info>
@@ -130,8 +130,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] ACESSE CONTEUDO NO YOUTUBE[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/8-YOUTUBE </externallink>
+<name>[COLOR lime][B] ACESSE CONTEUDO NO YOUTUBE[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/2H-SELYOUTUBE-OFICIAL</externallink>
 <thumbnail>https://i.ibb.co/26LjwYW/servidoryoutube-icon.png</thumbnail
 <fanart>http://bit.do/entrarfanart</fanart>
 <info> NOSSAS PLAYLISTS NO YOUTUBE</info>
