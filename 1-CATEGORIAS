@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR white][B]  CATEGORIAS 8[/B][/COLOR]</name>
+<name>[COLOR white][B]  CATEGORIAS [/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/LJPgDgW/icon.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
@@ -14,7 +14,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[B][COLOR orange]  FILMES[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/RQfCBBF/Filmes.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/1A-SELFILMES</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1A-SELFILMES-GERAL</externallink>
 <info>O MELHOR DA SÉTIMA ARTE</info>
 </channel>
 </channels>
@@ -145,10 +145,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[B][COLOR orange]  DICAS DE NAVEGAÇÃO[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/DICASDENAVEGASAO</externallink>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<thumbnail>ICONENAVEGASAO</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>[COLOR white]COR BRANCO - SEM LINK[/COLOR] - [COLOR orange]COR VERDE - LINK ATIVO[/COLOR]
-[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR white]REPORTE LINKS OFF[/COLOR]
+<info>[COLOR white]COR BRANCO - TEXTO INFORMATIVO[/COLOR] - [COLOR orange]COR LARANJA - LINK ON LINE[/COLOR]
+[COLOR red]COR VERMELHA - LINK OF LINE[/COLOR] - [COLOR white]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
 </channel>
 </channels>
